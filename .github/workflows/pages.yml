@@ -1,0 +1,73 @@
+name: Build and deploy the site
+
+# The site is generated output and is not committed (site/ is gitignored, and its
+# media are hard links into threads/media). This workflow rebuilds it from the
+# Markdown sources on every push and publishes the result to GitHub Pages.
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "site/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build the static site
+        run: python3 scripts/build_site.py
+
+      - name: Sanity check (every relative link must resolve)
+        run: |
+          python3 - <<'PY'
+          import html, os, re, glob
+          from urllib.parse import unquote
+          broken = 0
+          pages = glob.glob("site/**/*.html", recursive=True)
+          for f in pages:
+              base = os.path.dirname(f)
+              for m in re.finditer(r'(?:href|src)="([^"]+)"', open(f, encoding="utf-8").read()):
+                  url = html.unescape(m.group(1))
+                  if url.startswith(("http", "mailto:", "#", "data:", "//")):
+                      continue
+                  path = unquote(url.split("#")[0])
+                  if path and not os.path.exists(os.path.normpath(os.path.join(base, path))):
+                      broken += 1
+                      print("broken:", f, url)
+          print(f"{len(pages)} pages, {broken} broken links")
+          raise SystemExit(1 if broken else 0)
+          PY
+
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
