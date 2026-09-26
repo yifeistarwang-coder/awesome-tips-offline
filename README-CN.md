@@ -6,6 +6,8 @@
 
 🔗 **在线站点**：<https://yifeistarwang-coder.github.io/awesome-tips-offline/> · 每次推送由 GitHub Actions 自动重建
 
+[![归档站点首页](docs/web.png)](https://yifeistarwang-coder.github.io/awesome-tips-offline/)
+
 - 英文版：[README.md](README.md)
 - 中文完整串文归档（66 条）：[threads/zh/README.md](threads/zh/README.md)
 - 仓库五篇正文的中文整理：[中文离线阅读版.md](中文离线阅读版.md)

@@ -8,6 +8,8 @@ extracted into Markdown, and a self-contained static website on top.
 
 🔗 **Live site:** <https://yifeistarwang-coder.github.io/awesome-tips-offline/> · rebuilt from these sources on every push
 
+[![The archive's home page](docs/web.png)](https://yifeistarwang-coder.github.io/awesome-tips-offline/)
+
 - 中文版（Chinese）：[README-CN.md](README-CN.md)
 - X/Twitter 完整串文归档：[threads/README.md](threads/README.md)（66 条 · 配图/GIF 本地化）
 - 仓库正文中文整理：[中文离线阅读版.md](中文离线阅读版.md)
