@@ -41,6 +41,14 @@ python3 scripts/build_readmes.py           # 由 scripts/readme_index.json 重�
 python3 scripts/build_site.py              # 重建网站
 ```
 
+重新抓取后媒体会恢复成原始体积，需要再压缩一遍；站点也要重建，让 `site/media` 指向新文件：
+
+```bash
+python3 scripts/optimize_media.py                # 就地压缩，只在更小时才替换
+python3 scripts/optimize_media.py --gif-to-video # 把动图替换成 H.264 视频
+rm -rf site && python3 scripts/build_site.py
+```
+
 ## 说明
 
 - `threads/media/` 有 966 个文件、约 251 MB；`site/media/` 是指向它的硬链接，所以建站几乎不额外占用磁盘——但推送到任何远端之前请先掂量这个体积。

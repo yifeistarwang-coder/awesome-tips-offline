@@ -41,6 +41,15 @@ python3 scripts/build_readmes.py           # regenerate README.md / README-CN.md
 python3 scripts/build_site.py              # regenerate the website
 ```
 
+After a re-fetch the media come back at full size. To shrink them again (and to rebuild the site so
+`site/media` links the new files):
+
+```bash
+python3 scripts/optimize_media.py               # in-place, keeps only what is smaller
+python3 scripts/optimize_media.py --gif-to-video # replace animated GIFs with H.264 clips
+rm -rf site && python3 scripts/build_site.py
+```
+
 ## Notes
 
 - `threads/media/` holds 966 files (~251 MB). `site/media/` is hard-linked to it, so building the site costs almost no extra disk — but weigh that size before pushing the repository anywhere.
