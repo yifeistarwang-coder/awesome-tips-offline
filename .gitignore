@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+threads/.cache/
+
+# generated static website (build with scripts/build_site.py)
+site/
