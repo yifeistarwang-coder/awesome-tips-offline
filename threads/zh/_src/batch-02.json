@@ -1,0 +1,302 @@
+[
+ {
+  "key": "1426371971273666562#quoted",
+  "kind": "quoted",
+  "title": "How to keep track of literature?",
+  "en": "A couple of points to add to this wonderful thread:\n1. Use Google Scholar to follow most frequently authors. Today almost everyone has an (automatic) profile. Also, follow the key publications."
+ },
+ {
+  "key": "1426241459381051397",
+  "kind": "extra",
+  "title": "How to keep track of literature?",
+  "en": "@vikataravi @ak92501 @ak92501 is awesome! Definitely follow AK if you are interested in CV/ML/CG/AI. Here, I tried writing this in an area-agnostic manner as much as possible."
+ },
+ {
+  "key": "title:1423499757591400448",
+  "kind": "title",
+  "title": "",
+  "en": "How to come up with research ideas?"
+ },
+ {
+  "key": "1423499757591400448",
+  "kind": "tweet",
+  "title": "How to come up with research ideas?",
+  "en": "How to come up with research ideas?\n\nExcited about starting doing research but have no clue?🤷‍♂️🤷🏻‍♀️ Here are some simple methods that I found useful in identifying initial directions.\n\nCheck out the thread below 👇"
+ },
+ {
+  "key": "1423499766969901057",
+  "kind": "tweet",
+  "title": "How to come up with research ideas?",
+  "en": "*Find a different dimension*\n\nJust learn a cool idea from others? Think about how you could extend it to another dimension. \n\nEx: Text / audio / image / video / graph"
+ },
+ {
+  "key": "1423499775433920512",
+  "kind": "tweet",
+  "title": "How to come up with research ideas?",
+  "en": "*Relax assumptions*\n\nIdentify the underlying assumptions of existing work and try relaxing them to make it work in more unconstrained settings."
+ },
+ {
+  "key": "1423499783713480706",
+  "kind": "tweet",
+  "title": "How to come up with research ideas?",
+  "en": "*Make more assumptions*\n\nTake a general approach and tailor it to your SPECIFIC problem. You can then leverage all the domain knowledge (i.e., make more assumptions) to improve the method."
+ },
+ {
+  "key": "1423499787714842627",
+  "kind": "tweet",
+  "title": "How to come up with research ideas?",
+  "en": "*Combine two ideas/problems*\n \n\"To steal ideas from one person is plagiarism. To steal from many is research.\" - Wilson Mizner"
+ },
+ {
+  "key": "1423499796430602241",
+  "kind": "tweet",
+  "title": "How to come up with research ideas?",
+  "en": "*Grab a powerful hammer and find all the nails*\n\nPay attention to new emerging tools in the community.  Apply and adapt them on your problem."
+ },
+ {
+  "key": "1423499804433391619",
+  "kind": "tweet",
+  "title": "How to come up with research ideas?",
+  "en": "*Add an adjective*\n\nGiven an existing idea X, add an adjective to make it \n- slow➡️ fast\n- batch➡️online\n- sensitive➡️robust\n- centralized➡️distributed\n- single-step➡️progressive\n- single-level➡️hierarchical\n- fixed➡️adaptive, sth-aware\n- data-hungry➡️data-efficient\nand so on"
+ },
+ {
+  "key": "1423499812549300234",
+  "kind": "tweet",
+  "title": "How to come up with research ideas?",
+  "en": "*Stress test the state-of-the-art*\n\nDon't simply run on the fixed, boring benchmark datasets. Try it out on diverse, unconstrained examples and see how it fails. It's a great way to identify limitations of existing work. This is where your work can fill the gap."
+ },
+ {
+  "key": "1423499814390702090",
+  "kind": "tweet",
+  "title": "How to come up with research ideas?",
+  "en": "That's all! I would love to hear about your approaches for coming up with new ideas."
+ },
+ {
+  "key": "1424907719589470209",
+  "kind": "extra",
+  "title": "How to come up with research ideas?",
+  "en": "@FILWD This is great! I am wondering how would you strike a balance and avoid being too focused on incremental ideas?"
+ },
+ {
+  "key": "1424909199121735683",
+  "kind": "extra",
+  "title": "How to come up with research ideas?",
+  "en": "@domoritz That's very true!! Sometimes I found that talking to people *outside* the community also helps!"
+ },
+ {
+  "key": "title:1443248831102136333",
+  "kind": "title",
+  "title": "",
+  "en": "How to cope with paper rejection?"
+ },
+ {
+  "key": "1443248831102136333",
+  "kind": "tweet",
+  "title": "How to cope with paper rejection?",
+  "en": "How to cope with paper rejection?\n\nRejection SUCKS! It feels awful that months of hard work did not pay off. 😭 How do we hold a positive outlook when dealing with rejection?\n\nA thread of lessons (learned from many rejections) 🧵"
+ },
+ {
+  "key": "1443248839314530307",
+  "kind": "tweet",
+  "title": "How to cope with paper rejection?",
+  "en": "*It’s okay to be upset*\n\nRejection hurts, literally. Rejection activates the same brain regions as we are physically hurt. So it's perfectly okay to feel upset. Talk with friends/lab mates/advisor. Take a day off and come back recharged."
+ },
+ {
+  "key": "1443248847011069964",
+  "kind": "tweet",
+  "title": "How to cope with paper rejection?",
+  "en": "*It’s normal*\n\nFor junior students, a paper rejection can feel like a major setback. It's just part of the process.\n\n\"Brick walls are there for a reason. The brick walls are not there to keep us out. The brick walls are there to show how badly we want something.\" - Randy Pausch"
+ },
+ {
+  "key": "1443248872877445130",
+  "kind": "tweet",
+  "title": "How to cope with paper rejection?",
+  "en": "*It’s not personal.*\n\nDon’t take rejection personal. It's about your ideas, implementation, experiments, and writing. Create a to-do list from the reviewers' feedbacks and make sure that those concerns are properly addressed in your revision."
+ },
+ {
+  "key": "1443248877847601152",
+  "kind": "tweet",
+  "title": "How to cope with paper rejection?",
+  "en": "*It doesn't matter much.*\n\nVast majority of the papers won't matter in the long run. Your career will be shaped only by a few good ones. Instead of getting an \"okay\" paper accepted, it could be a blessing in disguise to revise and strengthen your paper.\n\nFig credit: Bill Freeman"
+ },
+ {
+  "key": "1443248888392163337",
+  "kind": "tweet",
+  "title": "How to cope with paper rejection?",
+  "en": "*Maintain a CV of failures*\n\nYou failed because you tried! Create a CV of failures to normalize all these setbacks.\n\nExample: https://jbhuang0604.github.io/Huang_CV_Failure.pdf"
+ },
+ {
+  "key": "1443248897862869009",
+  "kind": "tweet",
+  "title": "How to cope with paper rejection?",
+  "en": "*Celebrate every little success along the way*\n\nCelebrating small wins keeps up your motivation while pursuing your goals (whatever they are). Maximize the fun in your journey."
+ },
+ {
+  "key": "title:1997882311790968896",
+  "kind": "title",
+  "title": "",
+  "en": "How to Get Citations?"
+ },
+ {
+  "key": "1997882311790968896",
+  "kind": "tweet",
+  "title": "How to Get Citations?",
+  "en": "How to get citations?"
+ },
+ {
+  "key": "1997882312948596834",
+  "kind": "tweet",
+  "title": "How to Get Citations?",
+  "en": "\"Citations don't matter\", says the one with gazillions of citations.\n\n\"We believe in slow science\", say the groups who publish one paper every week.\n\nLike it or not, the system evaluates researchers with citations. \n\nHere are practical steps for junior folks 🧵"
+ },
+ {
+  "key": "1997882314177609904",
+  "kind": "tweet",
+  "title": "How to Get Citations?",
+  "en": "Three key ideas: \n\n1⃣ Make your work accessible\n\n2⃣ Make your work memorable\n\n3⃣ Make your work usable\n\nLet's break them down."
+ },
+ {
+  "key": "1997882319122894865",
+  "kind": "tweet",
+  "title": "How to Get Citations?",
+  "en": "*How do you make your work more accessible?*\n\n👉 Disseminate your work through dynamic, engaging media rather than relying solely on a static, boring PDF.\n\nBut HOW? \n\nMake a website, write a social media thread, write a blog post, create a video explainer."
+ },
+ {
+  "key": "1997882342313210033",
+  "kind": "tweet",
+  "title": "How to Get Citations?",
+  "en": "*How to make your work memorable?*\n\nThere are several actionable steps. \n\nThe simplest one? Come up with a good name!"
+ },
+ {
+  "key": "1997882344586232152",
+  "kind": "tweet",
+  "title": "How to Get Citations?",
+  "en": "Needless to say, the paper title is incredibly important! \n\nSpend time designing a distinct, memorable title. \n\nSource: Good Citizen of Computer Vision (https://deviparikh.com/citizenofcvpr/)"
+ },
+ {
+  "key": "1997882346599571461",
+  "kind": "tweet",
+  "title": "How to Get Citations?",
+  "en": "People memorize your work better when you can tell a clear story that \n\n*puts your work in the context of existing research*.\n\nDistill your core idea into one concise figure.\n\nExamples:"
+ },
+ {
+  "key": "1997882348713521475",
+  "kind": "tweet",
+  "title": "How to Get Citations?",
+  "en": "*How to make your work usable?*\n\nYour work is cited because it empowers others to do their work. \n\nDon't simply dump your messy codebase online. \nPut effort into polishing and organizing it so people can easily build upon your work."
+ },
+ {
+  "key": "1997882349950779603",
+  "kind": "tweet",
+  "title": "How to Get Citations?",
+  "en": "To further increase your research impact, check out this post that I found particularly insightful:\n\n\"Build what you need and use what you build.\" - @Michael_J_Black \n https://x.com/Michael_J_Black/status/1782284444537090114"
+ },
+ {
+  "key": "1997882349950779603#quoted",
+  "kind": "quoted",
+  "title": "How to Get Citations?",
+  "en": "Build what you need and use what you build. This is a core philosophy of my research. It shifts the focus away from publishing “papers” to what really matters — impact. This thread unpacks why I think this is a successful approach to science. 1/10 Or see:\nhttps://t.co/p3iWJ9LCzf"
+ },
+ {
+  "key": "1997882351788187912",
+  "kind": "tweet",
+  "title": "How to Get Citations?",
+  "en": "Share the many facets of your work.\n\nTo finish up your work, you typically need to \n- write up evaluation script\n- implement custom kernel\n- reproduce baselines\n- process messy data, clean up annotations\n- visualize results\n\nAll these have values. Share generously to help others."
+ },
+ {
+  "key": "1997882353608241609",
+  "kind": "tweet",
+  "title": "How to Get Citations?",
+  "en": "Of course, aiming to maximize citation counts is the WRONG goal. \n\nFocus instead on producing research that has real impact. Over time, your work will naturally be appreciated and recognized.\n\nMake them accessible, memorable, and useful!"
+ },
+ {
+  "key": "title:1453378296608137229",
+  "kind": "title",
+  "title": "",
+  "en": "How to share progress with your mentors/collaborators?"
+ },
+ {
+  "key": "1453378296608137229",
+  "kind": "tweet",
+  "title": "How to share progress with your mentors/collaborators?",
+  "en": "How to share your progress with your mentors/collaborators?\n\nThroughout your research project, 99% of the time your approach DOESN'T WORK (yet). 😬\n\nHow could we share these \"failed results\" and have productive conversations with your mentors/collaborators? 👇"
+ },
+ {
+  "key": "1453378305550397442",
+  "kind": "tweet",
+  "title": "How to share progress with your mentors/collaborators?",
+  "en": "*Design: Why do we want do this experiment?*\n\nPlz treat your mentors as goldfishes 🐟. Remind them WHY you did a particular experiment or implement a particular thing. This will provide the contexts for them to help interpret the results and steer the direction of your research."
+ },
+ {
+  "key": "1453378318699573250",
+  "kind": "tweet",
+  "title": "How to share progress with your mentors/collaborators?",
+  "en": "*Hypothesis: What do we expect to see?*\n\nBefore showing your results, comment on what should have happened (if everything is correct)?"
+ },
+ {
+  "key": "1453378327742402563",
+  "kind": "tweet",
+  "title": "How to share progress with your mentors/collaborators?",
+  "en": "*Observation: What did we see?*\n\nShow the (failed) results. Don't just say \"It doesn't work.\" Describe HOW it fails."
+ },
+ {
+  "key": "1453378339868184579",
+  "kind": "tweet",
+  "title": "How to share progress with your mentors/collaborators?",
+  "en": "*Interpretation: Is this expected/working?*\n\nAfter showing your results, comment on how do the results align with or deviate from your expectations."
+ },
+ {
+  "key": "1453378348164554752",
+  "kind": "tweet",
+  "title": "How to share progress with your mentors/collaborators?",
+  "en": "*Visualization: Any better ways to see the results?*\n\nSeeing the results with a good visualization helps deepen our understanding and spot the issues."
+ },
+ {
+  "key": "1453378356934754304",
+  "kind": "tweet",
+  "title": "How to share progress with your mentors/collaborators?",
+  "en": "*Actionable next steps: What steps would you do?*\n\nRemember to proactively propose the next steps so that we can make progress on the project. Remember that you are the main DRIVER of the project. Don't just wait for instructions."
+ },
+ {
+  "key": "title:1653614931202195458",
+  "kind": "title",
+  "title": "",
+  "en": "How to meet with your advisor?"
+ },
+ {
+  "key": "1653614931202195458",
+  "kind": "tweet",
+  "title": "How to meet with your advisor?",
+  "en": "How to meet with your advisors/mentors?\n\nIf you are a grad student, having effective regular meetings with advisors or mentors is absolutely crucial for your success! \n\nHere are some tips on how to make the most of it! 🧵"
+ },
+ {
+  "key": "1653614932590460928",
+  "kind": "tweet",
+  "title": "How to meet with your advisor?",
+  "en": "*Present results*\n\n❌ Collect and present the results you got in the last week? Terrible idea! 😱\n\nYour advisor sees your results for the first time in the meeting? It means they don't have time to understand and think about them.\n\n✅ Share and discuss results async FREQUENTLY."
+ },
+ {
+  "key": "1653614933601402881",
+  "kind": "tweet",
+  "title": "How to meet with your advisor?",
+  "en": "*Make an agenda*\n\n❌ Dive into technical details too quickly.\n\n✅ Make an agenda. Manage the meeting to ensure you cover all the topics you want to discuss."
+ },
+ {
+  "key": "1653614934624706561",
+  "kind": "tweet",
+  "title": "How to meet with your advisor?",
+  "en": "*Start with a summary*\n\n❌ \"Look at this table full of numbers.\"\n\n✅ \"Last week, we agreed to examine hypotheses A and B. I will show my experiments later. In sum, ...\""
+ },
+ {
+  "key": "1653614935631441921",
+  "kind": "tweet",
+  "title": "How to meet with your advisor?",
+  "en": "*Interpret your results*\n\n❌ \"Here are the results. Look at this table.\" \n\n✅ Contextualize your results.\n• What did you do?\n• Why did you do it?\n• How did you do it?\n• What did you find?\n• Does it make sense (match your expectation)?"
+ },
+ {
+  "key": "1653614936612913152",
+  "kind": "tweet",
+  "title": "How to meet with your advisor?",
+  "en": "*Propose next steps*\n\n❌ \"That's all my progress. What do you suggest to do next?\"\n\n✅ \"That's all my progress. Based on what we see in the results, here are the prioritized tasks A, B, C (and why).\""
+ }
+]

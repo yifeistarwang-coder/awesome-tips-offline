@@ -1,0 +1,296 @@
+[
+ {
+  "key": "title:1647098218172252160",
+  "kind": "title",
+  "title": "",
+  "en": "How to do experiments?"
+ },
+ {
+  "key": "1647098218172252160",
+  "kind": "tweet",
+  "title": "How to do experiments?",
+  "en": "How to do experiments?\n\nJunior students often feel stressed before the weekly meeting with their advisors because their experiments do not go well. 😩😰😱\n\nSome tips on why, what, and how to do experiments. 🧵"
+ },
+ {
+  "key": "1647098226196004864",
+  "kind": "tweet",
+  "title": "How to do experiments?",
+  "en": "*Why? 🤔*\n\n❌  Do an experiment to get improved performance.\n✅  Do an experiment to test a hypothesis.\n\nMany students trying to show improved results with experiments are missing the point. \n\nYour goal of experiments should be to validate/test your research questions."
+ },
+ {
+  "key": "1647098233330491392",
+  "kind": "tweet",
+  "title": "How to do experiments?",
+  "en": "*What? 🤔*\n\nWhat experiments should we do?\n\nThis involves three main steps:\n1⃣ identify key research questions\n2⃣break them down into baby steps\n3⃣design experiments that best answer those questions"
+ },
+ {
+  "key": "1647098240632758273",
+  "kind": "tweet",
+  "title": "How to do experiments?",
+  "en": "*How? 🤔*\n\nOkay, so now we know why and what, how about HOW?\n\nThere are no universal answers, but here are some principles I found helpful."
+ },
+ {
+  "key": "1647098253056327682",
+  "kind": "tweet",
+  "title": "How to do experiments?",
+  "en": "*One thing at a time*\n\nRemember that the goal of your experiment is to test a hypothesis? \n\nIf you change multiple things at once, then you are trying to validate a complicated hypothesis with multiple factors. \n\nThe outcomes of your experiments thus have little value."
+ },
+ {
+  "key": "1647098260413202435",
+  "kind": "tweet",
+  "title": "How to do experiments?",
+  "en": "*Anticipate the results*\n\nLearn to predict the outcome *before* you do the experiments. \n\nWhat do you expect to see if you add X / remove Y / test on Z?\n\nThis helps you interpret the outcomes and identify errors."
+ },
+ {
+  "key": "1647098272056475649",
+  "kind": "tweet",
+  "title": "How to do experiments?",
+  "en": "*Start with a baseline*\n\nVery often, you do experiments to see a \"change\" (either positive or negative). \n\nYou will be in trouble later if you don't have a solid baseline first."
+ },
+ {
+  "key": "1647098283980988417",
+  "kind": "tweet",
+  "title": "How to do experiments?",
+  "en": "*Document everything*\n\nUse your brain to think, reason, and not store tedious information.\n\nOrganize your experiments with some frameworks like Hydra. https://hydra.cc/"
+ },
+ {
+  "key": "1647098291849494529",
+  "kind": "tweet",
+  "title": "How to do experiments?",
+  "en": "*Two valid design choices? Do both!*\n\nStudents often ask: \"Should I do A or B?\"\n\nMe: You don't need to ask me. If both A and B are sensible choices, do BOTH and let the results tell the story."
+ },
+ {
+  "key": "1647098298988101633",
+  "kind": "tweet",
+  "title": "How to do experiments?",
+  "en": "*Ask for feedback*\n\nYour mentors/advisors are there to help you succeed.  \n\nDon't hesitate to seek help from them!"
+ },
+ {
+  "key": "1647099717547876353",
+  "kind": "tweet",
+  "title": "How to do experiments?",
+  "en": "These tips help me tremendously when navigating complex problems. Hope they help your work as well! \n\nIf you find this thread helpful, please like, share, and follow! https://x.com/jbhuang0604/status/1647098218172252160\n\nHappy experimenting! \n\nWhat are your favorite tricks/tips for doing experiments? 😄"
+ },
+ {
+  "key": "1647099717547876353#quoted",
+  "kind": "quoted",
+  "title": "How to do experiments?",
+  "en": "How to do experiments?\n\nJunior students often feel stressed before the weekly meeting with their advisors because their experiments do not go well. 😩😰😱\n\nSome tips on why, what, and how to do experiments. 🧵 https://t.co/eqYSplrVOP"
+ },
+ {
+  "key": "1647680118540607489",
+  "kind": "extra",
+  "title": "How to do experiments?",
+  "en": "@zhizhid"
+ },
+ {
+  "key": "title:1717381151508054029",
+  "kind": "title",
+  "title": "",
+  "en": "How to get unstuck?"
+ },
+ {
+  "key": "1717381151508054029",
+  "kind": "tweet",
+  "title": "How to get unstuck?",
+  "en": "How to get unstuck?\n\n\"It doesn't work.\" 🤷‍♀️🤷‍♂️\n\nIn most research projects, ~99% of the time your experiments DO NOT work. What should we do to get ourselves unstuck? 🤔\n\nSharing some tips I found useful. 🧵"
+ },
+ {
+  "key": "1717381158755860585",
+  "kind": "tweet",
+  "title": "How to get unstuck?",
+  "en": "*Help your mentors help you*\n\nTell them:\n1⃣ WHY did you do the experiments?\n2⃣ HOW did you do the experiments?\n3⃣ WHAT did you see from the results?\n\nYour mentors have more experience than you and are willing to help.\n\nBut you have to help them help you."
+ },
+ {
+  "key": "1717381170399166661",
+  "kind": "tweet",
+  "title": "How to get unstuck?",
+  "en": "*Make your experiments easy to understand*\n\nIf you only verbally describe why/how/what you did, it's difficult for others to fully understand the process. \n\n👉 Visualize your workflow\n👉 Document the details\n\nYour mentors are more likely to catch some issues here and there."
+ },
+ {
+  "key": "1717381182260645942",
+  "kind": "tweet",
+  "title": "How to get unstuck?",
+  "en": "*Show HOW it failed*\n\n❌ It does not work.\n\n✅ Here is the input and our expected results. But here are our current results. If I use another more challenging input case, it fails even more."
+ },
+ {
+  "key": "1717381189978214801",
+  "kind": "tweet",
+  "title": "How to get unstuck?",
+  "en": "*Simplify the tasks until it works*\n\nProgressively make your tasks simpler until the tasks become so trivial that they must \"work\".\n\nExamples:\n- multiple ➡️ single\n- general ➡️ specific\n- large ➡️ small\n- sparse ➡️dense\n- complex ➡️ simple"
+ },
+ {
+  "key": "1717381197007896752",
+  "kind": "tweet",
+  "title": "How to get unstuck?",
+  "en": "*Introduce privileged information*\n\nNeed to estimate A and B in your task?\n\nWhat if you know B and only need to estimate A? \n\nWhat if you know A and only need to estimate B?\n\nAdding privileged information is a powerful trick to make progress."
+ },
+ {
+  "key": "1717381204087865825",
+  "kind": "tweet",
+  "title": "How to get unstuck?",
+  "en": "*Find the solution online*\n\nLMGTFY\n\nDid anyone else in the world experience similar blockers you have? \n\nChances are the solution is just one click away!"
+ },
+ {
+  "key": "1717381215785799683",
+  "kind": "tweet",
+  "title": "How to get unstuck?",
+  "en": "*Learn from others*\n\nRead relevant papers solving similar tasks. \n\nWhy did their method work? What's the difference you missed?\n\n- preprocessing steps?\n- hyper-parameter settings?\n- implementation tricks?"
+ },
+ {
+  "key": "1717381222983233940",
+  "kind": "tweet",
+  "title": "How to get unstuck?",
+  "en": "*Debug the idea*\n\nI have never had a case where my first idea for a problem \"just worked\".\n\nWhen you debug all your code/experiments and still find it not working, take a step back and debug the idea."
+ },
+ {
+  "key": "1717381230675534079",
+  "kind": "tweet",
+  "title": "How to get unstuck?",
+  "en": "*Iterate fast*\n\nFind toy examples and proxy tasks so you can have a short turnaround time. \n\nThe faster you can iterate, the more progress you can make."
+ },
+ {
+  "key": "1717381239072600419",
+  "kind": "tweet",
+  "title": "How to get unstuck?",
+  "en": "Hope this helps you get unstuck! You can do it! \n\nRelated threads on this topic:\n- on designing experiments: https://x.com/jbhuang0604/status/1647098218172252160\n\n- on making progress: https://x.com/jbhuang0604/status/1419880122006519809\n\n- on sharing progress: https://x.com/jbhuang0604/status/1453378296608137229"
+ },
+ {
+  "key": "1717381239072600419#quoted",
+  "kind": "quoted",
+  "title": "How to get unstuck?",
+  "en": "How to share your progress with your mentors/collaborators?\n\nThroughout your research project, 99% of the time your approach DOESN'T WORK (yet). 😬\n\nHow could we share these \"failed results\" and have productive conversations with your mentors/collaborators? 👇"
+ },
+ {
+  "key": "title:1628521223838654464",
+  "kind": "title",
+  "title": "",
+  "en": "How to decide what to work on?"
+ },
+ {
+  "key": "1628521223838654464",
+  "kind": "tweet",
+  "title": "How to decide what to work on?",
+  "en": "How to decide what to work on?\n\nSo many exciting ideas, so little time! How can one narrow down to a specific idea to work on? 🤔\n\nSharing some strategies I found useful. 🧵"
+ },
+ {
+  "key": "1628521225059201026",
+  "kind": "tweet",
+  "title": "How to decide what to work on?",
+  "en": "*Find your position*\n\nUnderstand your unfair advantages over others, what the community cares about, and how you can best contribute.\n\nAvoid crowding the ball (aka chasing the hottest problem in the field)."
+ },
+ {
+  "key": "1628521233783394304",
+  "kind": "tweet",
+  "title": "How to decide what to work on?",
+  "en": "*Identify intrinsic motivation*\n\nWork on problems and real applications that you genuinely care about."
+ },
+ {
+  "key": "1628521244432662529",
+  "kind": "tweet",
+  "title": "How to decide what to work on?",
+  "en": "*Anticipate disruptive technologies*\n\nInstead of focusing on what everyone is working on NOW, anticipate the major problems LATER when disruptive technologies (e.g., new sensors, algorithms, models, data) emerge."
+ },
+ {
+  "key": "1628521256948465665",
+  "kind": "tweet",
+  "title": "How to decide what to work on?",
+  "en": "*Imagine success*\n\nAt the begging of your project, be an amateur and dream big! Don't be intimidated by all the technical challenges just yet.\n\n\"Think like an amateur, do as an expert\" - Takeo Kanade."
+ },
+ {
+  "key": "1628521269309079556",
+  "kind": "tweet",
+  "title": "How to decide what to work on?",
+  "en": "*Validate the idea fast*\n\nNot all the ideas will pan out. Design small experiments to validate your hypothesis and assumptions.\n\nIf you fail, fail FAST!"
+ },
+ {
+  "key": "1628521271100047360",
+  "kind": "tweet",
+  "title": "How to decide what to work on?",
+  "en": "These strategies have been helpful for me in prioritizing multiple ideas. \n\nHope these give you clarity on what you should work on as well."
+ },
+ {
+  "key": "1628601890421280769",
+  "kind": "extra",
+  "title": "How to decide what to work on?",
+  "en": "@nisarg0812 Check out an older thread for some ideas 😉: https://x.com/jbhuang0604/status/1423499757591400448"
+ },
+ {
+  "key": "title:1426039195542360070",
+  "kind": "title",
+  "title": "",
+  "en": "How to keep track of literature?"
+ },
+ {
+  "key": "1426039195542360070",
+  "kind": "tweet",
+  "title": "How to keep track of literature?",
+  "en": "How to keep track with the literature?\n\nGetting started with research but overwhelmed by THOUSANDS of papers each year? How could one stay sane keeping track of the literature? 😱\n\nHere are some tricks I found useful. 🧵"
+ },
+ {
+  "key": "1426039204560113664",
+  "kind": "tweet",
+  "title": "How to keep track of literature?",
+  "en": "*Track the people, not the papers*\n\nThere are far fewer key people who are driving the field forward than the number of papers. Check out who the authors are when you read papers. Overtime you will recognize the important ones."
+ },
+ {
+  "key": "1426039217176653824",
+  "kind": "tweet",
+  "title": "How to keep track of literature?",
+  "en": "*Read papers with good related work*\n\nA good related work section saves you so much time by providing a clear, organized view for prior work. \n\nSide note: Please save others' time by writing a good related work https://x.com/jbhuang0604/status/1417117742302433286?s=20"
+ },
+ {
+  "key": "1426039217176653824#quoted",
+  "kind": "quoted",
+  "title": "How to keep track of literature?",
+  "en": "Writing Related Work\n\nI enjoy reading/writing the related work section of a paper. It helps organize prior research and put the contributions of the work in proper context. \n\nBut HOW? Check the thread below👇"
+ },
+ {
+  "key": "1426039225686896642",
+  "kind": "tweet",
+  "title": "How to keep track of literature?",
+  "en": "*Organize the papers*\n\nDon't read papers individually. Think about how are they related (similar in some aspects, but different in others). It often helps to build a table with columns specifying ATTRIBUTES. \n\nWith this table, reading new papers becomes easy (just add more rows)."
+ },
+ {
+  "key": "1426039233660309504",
+  "kind": "tweet",
+  "title": "How to keep track of literature?",
+  "en": "*Avoid reading the paper*\n\nInstead of spending time reading the actual paper, find resources that are much easier to digest, e.g., a talk, a youtube video, teaser results, introductory video, or an overview figure. \n\nVery often understanding the gist of the paper is all you need."
+ },
+ {
+  "key": "1426039246171815938",
+  "kind": "tweet",
+  "title": "How to keep track of literature?",
+  "en": "*Read with a purpose*\n\nBefore investing time on reading a paper, think about WHY you are reading it. Are you reading for the experimental setup, the organization, the story, the style, the method, or the visualization? \n\nYou almost never need to read a paper from top to bottom."
+ },
+ {
+  "key": "1426039253977423872",
+  "kind": "tweet",
+  "title": "How to keep track of literature?",
+  "en": "*Identify the trend*\n\nUse your favorite tools to find what's hot/trendy, e.g., \nhttp://www.arxiv-sanity.com/ \nhttps://paperswithcode.com/\nhttps://x.com/"
+ },
+ {
+  "key": "1426039255499935747",
+  "kind": "tweet",
+  "title": "How to keep track of literature?",
+  "en": "Hope this helps! What's your favorite methods for keeping up with the literature in a fast-pacing field?"
+ },
+ {
+  "key": "1426211990461157377",
+  "kind": "tweet",
+  "title": "How to keep track of literature?",
+  "en": "Excellent points from the one and only @tzumaoli!"
+ },
+ {
+  "key": "1426211990461157377#quoted",
+  "kind": "quoted",
+  "title": "How to keep track of literature?",
+  "en": "Read older papers (before 2000). Many important insights already appeared decades ago. Don't just read from certain groups. This tends to miss the big picture. Read from broader fields. Read statistics, robotics, physics, applied math, graphics, PL, databases, linguistics, HCI."
+ },
+ {
+  "key": "1426371971273666562",
+  "kind": "tweet",
+  "title": "How to keep track of literature?",
+  "en": "Adding many good suggestions from @VRAdithya!\n\nhttps://x.com/VRAdithya/status/1426264585435181060?s=20"
+ }
+]

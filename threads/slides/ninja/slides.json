@@ -1,0 +1,712 @@
+[
+ {
+  "slide": 1,
+  "texts": [
+   "The Road to Becoming ",
+   "an AI Ninja",
+   "Jia-Bin Huang",
+   "University of Maryland College Park"
+  ],
+  "images": [
+   "slide01-1.png"
+  ],
+  "notes": [
+   "2"
+  ]
+ },
+ {
+  "slide": 2,
+  "texts": [
+   "“I have been most recently building a course on AI Research. I have been enjoying your Twitter threads on research, and I’d love to have a chat to see whether you may be interested in guest lecturing for the course in the fall.”",
+   "Pranav",
+   "Jia-Bin",
+   "“Sure!”"
+  ],
+  "images": [
+   "slide02-1.png",
+   "slide02-2.jpeg",
+   "slide02-3.gif"
+  ],
+  "notes": [
+   "5"
+  ]
+ },
+ {
+  "slide": 3,
+  "texts": [],
+  "images": [
+   "slide03-1.png"
+  ],
+  "notes": [
+   "6"
+  ]
+ },
+ {
+  "slide": 4,
+  "texts": [
+   "AI Research Experiences ",
+   "“AI ninja”"
+  ],
+  "images": [
+   "slide04-1.png",
+   "slide04-2.png"
+  ],
+  "notes": [
+   "7"
+  ]
+ },
+ {
+  "slide": 5,
+  "texts": [
+   "AI Research Experiences ",
+   "“AI ninja”",
+   "Tools",
+   "SWE ",
+   "Python/",
+   "PyTorch",
+   "Transformer ",
+   "Methodology",
+   "Ideas",
+   "Experiments",
+   "Evaluation ",
+   "Papers",
+   "Abstract/Intro",
+   "Method/Results",
+   "Figures",
+   "Dissemination",
+   "Presentation",
+   "Deploy model"
+  ],
+  "images": [
+   "slide05-1.png",
+   "slide05-2.png",
+   "slide05-3.png",
+   "slide05-4.png",
+   "slide05-5.png",
+   "slide05-6.png"
+  ],
+  "notes": [
+   "8"
+  ]
+ },
+ {
+  "slide": 6,
+  "texts": [
+   "The Road to Becoming an AI Ninja",
+   "“AI ninja”",
+   "Tools",
+   "Methodology",
+   "Dissemination",
+   "Papers"
+  ],
+  "images": [
+   "slide06-1.png",
+   "slide06-2.png",
+   "slide06-3.png",
+   "slide06-4.png",
+   "slide06-5.png",
+   "slide06-6.png"
+  ],
+  "notes": [
+   "9"
+  ]
+ },
+ {
+  "slide": 7,
+  "texts": [
+   "The Road to Becoming an AI Ninja",
+   "Tools",
+   "Methodology",
+   "Dissemination",
+   "Papers",
+   "Identify ",
+   "G",
+   "a",
+   "p",
+   "s",
+   "!",
+   "“AI ninja”"
+  ],
+  "images": [
+   "slide07-1.png",
+   "slide07-2.png",
+   "slide07-3.png",
+   "slide07-4.png",
+   "slide07-5.png",
+   "slide07-6.png"
+  ],
+  "notes": [
+   "10"
+  ]
+ },
+ {
+  "slide": 8,
+  "texts": [
+   "The Road to Becoming an AI Ninja",
+   "Tools",
+   "Methodology",
+   "Dissemination",
+   "Papers",
+   "Methodology",
+   "Papers",
+   "How to make steady progress?",
+   "“AI ninja”",
+   "Papers",
+   "Dissemination",
+   "How to create more impact?"
+  ],
+  "images": [
+   "slide08-1.png",
+   "slide08-2.png",
+   "slide08-3.png",
+   "slide08-4.png",
+   "slide08-5.png",
+   "slide08-6.png"
+  ],
+  "notes": [
+   "What are the important problems of your field?",
+   "What important problems are you working on?",
+   "21"
+  ]
+ },
+ {
+  "slide": 9,
+  "texts": [
+   "The Road to Becoming an AI Ninja",
+   "Methodology",
+   "Papers",
+   "How to make steady progress?",
+   "Papers",
+   "Dissemination",
+   "How to create more impact?"
+  ],
+  "images": [],
+  "notes": [
+   "22"
+  ]
+ },
+ {
+  "slide": 10,
+  "texts": [
+   "The Road to Becoming an AI Ninja",
+   "Methodology",
+   "Papers",
+   "How to make steady progress?",
+   "Papers",
+   "Dissemination",
+   "How to create more impact?"
+  ],
+  "images": [],
+  "notes": [
+   "23"
+  ]
+ },
+ {
+  "slide": 11,
+  "texts": [
+   "How to make steady progress?",
+   "Mentor/Advisor",
+   "Research Skills"
+  ],
+  "images": [
+   "slide11-1.png",
+   "slide11-2.jpeg"
+  ],
+  "notes": [
+   "24"
+  ]
+ },
+ {
+  "slide": 12,
+  "texts": [
+   "Mentor/Advisor",
+   "How to make steady progress?"
+  ],
+  "images": [
+   "slide12-1.jpeg"
+  ],
+  "notes": [
+   "28"
+  ]
+ },
+ {
+  "slide": 13,
+  "texts": [
+   "(1) Your advisor is an ",
+   "input-output machine",
+   "Mentor/Advisor",
+   "❌ ",
+   "Input only: ",
+   "\tYou do everything and report the final results.",
+   "❌ ",
+   "Output only: ",
+   "\tYou do everything that they told you to do.",
+   "✅ ",
+   "In-N-Out: ",
+   "\tFrequent updates and frequent feedback."
+  ],
+  "images": [
+   "slide13-1.jpeg",
+   "slide13-2.png"
+  ],
+  "notes": [
+   "29"
+  ]
+ },
+ {
+  "slide": 14,
+  "texts": [
+   "(2) Show your work",
+   "Mentor/Advisor",
+   "❌ ",
+   "Show your success only",
+   "✅ ",
+   "Show your work",
+   "What did you do? ",
+   "Why did you do it? ",
+   "How did you do it?",
+   "What did you find?",
+   "Why did you think it make sense?"
+  ],
+  "images": [
+   "slide14-1.jpeg",
+   "slide14-2.jpeg"
+  ],
+  "notes": [
+   "35"
+  ]
+ },
+ {
+  "slide": 15,
+  "texts": [
+   "(3) Present failures",
+   "Mentor/Advisor",
+   "❌ “",
+   "It doesn’t work.”",
+   "✅ ",
+   "Present failures",
+   "”I’ve narrowed down the problem to step B. Until step A, you can see that it works, because you put in X and you get Y out, as we expect. You can see how it fails here at B. I’ve ruled out W and Z as the cause.”",
+   "How to do research by Bill Freeman"
+  ],
+  "images": [
+   "slide15-1.jpeg",
+   "slide15-2.jpeg"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 16,
+  "texts": [
+   "(4) Provide contexts",
+   "Mentor/Advisor",
+   "✅ ",
+   "Treat your advisor ",
+   "as goldfish",
+   "✅ ",
+   "Maintain a detailed ",
+   "meeting minute",
+   "✅ ",
+   "Start with why"
+  ],
+  "images": [
+   "slide16-1.jpeg",
+   "slide16-2.jpeg"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 17,
+  "texts": [
+   "(5) Set expectation",
+   "Mentor/Advisor",
+   "❌",
+   "I will finish it as soon as possible.",
+   "✅ ",
+   "I will do XXX by YYY."
+  ],
+  "images": [
+   "slide17-1.jpeg",
+   "slide17-2.jpeg"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 18,
+  "texts": [
+   "How to make steady progress?",
+   "Mentor/Advisor",
+   "Research Skills"
+  ],
+  "images": [
+   "slide18-1.png",
+   "slide18-2.jpeg"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 19,
+  "texts": [
+   "How to make steady progress?",
+   "Research Skills"
+  ],
+  "images": [
+   "slide19-1.png"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 20,
+  "texts": [
+   "(1) Imagine success",
+   "Research Skills",
+   "Start",
+   "Goal",
+   "Research project roadmap",
+   "Project goal",
+   "Awesome?",
+   "Yes!",
+   "Meh"
+  ],
+  "images": [
+   "slide20-1.jpeg",
+   "slide20-2.png",
+   "slide20-3.gif",
+   "slide20-4.gif"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 21,
+  "texts": [
+   "(1) Imagine success",
+   "Research Skills",
+   "“If what you are doing is not important, and if you don't think it is going to lead to something important, why are you at Bell Labs working on it?”",
+   "… I wasn't welcomed after that",
+   "“If you do not work on an important problem, it's unlikely you'll do important work.”",
+   "Richard Hamming"
+  ],
+  "images": [
+   "slide21-1.png",
+   "slide21-2.jpeg"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 22,
+  "texts": [
+   "(2) Work backward",
+   "Research Skills",
+   "Start",
+   "Goal",
+   "Research project roadmap",
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "Forward:",
+   "   A",
+   " B",
+   " C",
+   " D",
+   " E",
+   "Backward:",
+   "   D",
+   "E; C",
+   "D; B",
+   "C; A",
+   "B"
+  ],
+  "images": [
+   "slide22-1.jpeg",
+   "slide22-2.png",
+   "slide22-3.png",
+   "slide22-4.png",
+   "slide22-5.png"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 23,
+  "texts": [
+   "(2) Work backward",
+   "Research Skills",
+   "Forward:",
+   "   A",
+   " B",
+   " C",
+   " D",
+   " E",
+   "Backward:",
+   "   D",
+   "E; C",
+   "D; B",
+   "C; A",
+   "B",
+   "S",
+   "ee the final outcome early",
+   "See ",
+   "upper bound early",
+   "Focus on each task with perfect inputs",
+   "Understand what is needed"
+  ],
+  "images": [
+   "slide23-1.png",
+   "slide23-2.png",
+   "slide23-3.png",
+   "slide23-4.png",
+   "slide23-5.png"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 24,
+  "texts": [
+   "(3) Toy example",
+   "Research Skills",
+   "Find TSTMTCTMI!",
+   "T",
+   "he ",
+   "S",
+   "implest ",
+   "T",
+   "oy ",
+   "M",
+   "odel ",
+   "T",
+   "hat ",
+   "C",
+   "aptures ",
+   "T",
+   "he ",
+   "M",
+   "ain ",
+   "I",
+   "dea",
+   "Credit: Bill Freeman",
+   "Color constancy problem",
+   "3D video"
+  ],
+  "images": [
+   "slide24-1.png",
+   "slide24-2.png",
+   "slide24-3.jpeg",
+   "slide24-4.png",
+   "slide24-5.png"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 25,
+  "texts": [
+   "(4) Simple things first",
+   "Research Skills",
+   "Let’s build a sheep counter!"
+  ],
+  "images": [
+   "slide25-1.png",
+   "slide25-2.png",
+   "slide25-3.jpeg",
+   "slide25-4.jpeg"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 26,
+  "texts": [
+   "(5) One thing at a time",
+   "Research Skills",
+   "b",
+   "atch_size",
+   " = 4 ",
+   " batch_size = 16",
+   "learning_rate",
+   " = 1e-3 ",
+   " learning_rate = 1e-5",
+   "use_abc_loss",
+   " = False ",
+   "use_abc_loss",
+   " = True",
+   "Oh no, the results got worse!! ",
+   "What do we learn?"
+  ],
+  "images": [
+   "slide26-1.png",
+   "slide26-2.png",
+   "slide26-3.jpeg"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 27,
+  "texts": [
+   "How to make steady progress?",
+   "Mentor/Advisor",
+   "Research Skills",
+   " I",
+   "nput-output machine",
+   " Show your work",
+   " Present failures",
+   " Provide contexts",
+   " Set expectation",
+   " Imagine success",
+   " Work backward",
+   " Toy example",
+   " Simple things first",
+   " One thing at a time"
+  ],
+  "images": [
+   "slide27-1.jpeg",
+   "slide27-2.png",
+   "slide27-3.png",
+   "slide27-4.png"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 28,
+  "texts": [
+   "The Road to an AI Ninja",
+   "Methodology",
+   "Papers",
+   "How to make steady progress?",
+   "Papers",
+   "Dissemination",
+   "How to create more impact?"
+  ],
+  "images": [
+   "slide28-1.png",
+   "slide28-2.jpeg"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 29,
+  "texts": [
+   "Personal story",
+   "Presenting a (virtual) poster ",
+   "at ECCV 2020",
+   "Poster: ",
+   "5 people visited in 2.5 hours",
+   "Twitter post: ",
+   "508K impressions",
+   "Need to stand at the poster for ",
+   "29 years ",
+   "to reach the same visibility!"
+  ],
+  "images": [
+   "slide29-1.png"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 30,
+  "texts": [
+   "(1) Pick a good name",
+   "David Patterson"
+  ],
+  "images": [
+   "slide30-1.png",
+   "slide30-2.gif"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 31,
+  "texts": [
+   "(2) Make all your results available"
+  ],
+  "images": [
+   "slide31-1.gif",
+   "slide31-2.png",
+   "slide31-3.jpeg"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 32,
+  "texts": [
+   "(3) Lower the barrier for others to follow",
+   "GitHub",
+   "Google ",
+   "colab",
+   "Hugging Face",
+   "PyTorch",
+   " hub"
+  ],
+  "images": [
+   "slide32-1.gif",
+   "slide32-2.png",
+   "slide32-3.png",
+   "slide32-4.png",
+   "slide32-5.jpeg"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 33,
+  "texts": [
+   "(4) Make others’ life easier",
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "Baseline implementation?",
+   "Evaluation script?",
+   "Data preprocessing?",
+   "New dataset?"
+  ],
+  "images": [
+   "slide33-1.gif",
+   "slide33-2.jpeg"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 34,
+  "texts": [
+   "(5) Show your work!",
+   "Your website, YouTube, Twitter",
+   "Nurture your brand. Build your audience. ",
+   "“But I don’t have good scientific papers to show yet.”",
+   "“Show your work. It’s not self-promotion, it’s self-discovery.”"
+  ],
+  "images": [
+   "slide34-1.gif",
+   "slide34-2.png"
+  ],
+  "notes": []
+ },
+ {
+  "slide": 35,
+  "texts": [
+   "The Road to Becoming an AI Ninja",
+   "Tools",
+   "Methodology",
+   "Dissemination",
+   "Papers",
+   "Methodology",
+   "Papers",
+   "How to make steady progress?",
+   "“AI ninja”",
+   "Papers",
+   "Dissemination",
+   "How to create more impact?",
+   "🌐   ",
+   "https://jbhuang0604.github.io/",
+   "https://twitter.com/jbhuang0604",
+   "Questions and feedback are welcome!"
+  ],
+  "images": [
+   "slide35-1.png",
+   "slide35-2.png",
+   "slide35-3.png",
+   "slide35-4.png",
+   "slide35-5.png",
+   "slide35-6.png",
+   "slide35-7.png"
+  ],
+  "notes": []
+ }
+]

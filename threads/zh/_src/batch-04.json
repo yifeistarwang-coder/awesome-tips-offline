@@ -1,0 +1,254 @@
+[
+ {
+  "key": "1638029718724247555",
+  "kind": "tweet",
+  "title": "How to write the Introduction?",
+  "en": "WHY Example 1:\n\nThe Shiftable Multiscale Transforms paper shows the NEED for translation invariance with a concrete example.\n\n(a) Input signal\n(b-d) Coefficients of wavelet representations. \n\n(e) Shifted the input signal by ONE sample\n(f-h) LOOK! Completely DIFFERENT coefficients"
+ },
+ {
+  "key": "1638029720523616258",
+  "kind": "tweet",
+  "title": "How to write the Introduction?",
+  "en": "WHY Example 2\n\nThe Relative Attributes work highlights the NEED for a more informative and intuitive description using relative attributes with concrete examples."
+ },
+ {
+  "key": "1638029722067116034",
+  "kind": "tweet",
+  "title": "How to write the Introduction?",
+  "en": "WHY Example 3 \n\nThe Feature Pyramid Networks work shows multiple alternative design options (a-c) and their drawbacks. This helps motivate the NEED for their design of a fast &amp; accurate model."
+ },
+ {
+  "key": "1638029723660943360",
+  "kind": "tweet",
+  "title": "How to write the Introduction?",
+  "en": "*🖼️ HOW figure*\n\nThis figure describes how your method works. \n\nSome tips:\n✅ Link all sections\n✅ Use consistent notations\n✅ Self-contained caption\n✅ Visualize the variables\n✅ Cascade of small units: \"Input -&gt; some processing -&gt; Output\" (think about computational graph)."
+ },
+ {
+  "key": "1638029724793307139",
+  "kind": "tweet",
+  "title": "How to write the Introduction?",
+  "en": "HOW Example 1:\n\nThe HyperReel paper (https://hyperreel.github.io/) visualizes the four main algorithmic steps. \n\nNote the math notations, name, and detailed, self-contained figure caption."
+ },
+ {
+  "key": "1638029727091892226",
+  "kind": "tweet",
+  "title": "How to write the Introduction?",
+  "en": "HOW Example 2:\n\nMy video completion work back in my Ph.D. years https://filebox.ece.vt.edu/~jbhuang/project/vidcomp/\nshows how the processing steps in each iteration."
+ },
+ {
+  "key": "1638029729889501184",
+  "kind": "tweet",
+  "title": "How to write the Introduction?",
+  "en": "HOW Example 3:\n\nThe Robust Dynamic Radiance Fields paper (https://robust-dynrf.github.io/) shows how all the math notations and variables connect with each other using this HOW figure. Note the descriptive figure caption."
+ },
+ {
+  "key": "1638029732347367429",
+  "kind": "tweet",
+  "title": "How to write the Introduction?",
+  "en": "With the WHAT-WHY-HOW figures, we are now ready to answer the following five questions! \n\n🤔 What's the problem?\n🤔 What have others done?\n🤔 What's the gap?\n🤔 What have you done?\n🤔 What do you contribute?"
+ },
+ {
+  "key": "1638029733446164481",
+  "kind": "tweet",
+  "title": "How to write the Introduction?",
+  "en": "*🤔 Q1: What's the problem?*\n\n✅ State clearly what problem you are addressing. \n\n✅ Tell the readers explicitly why they should care about the problem (e.g., applications). \n\n🖼️ Use your WHAT figure for visual references."
+ },
+ {
+  "key": "1638029734775848960",
+  "kind": "tweet",
+  "title": "How to write the Introduction?",
+  "en": "*🤔 Q2: What have others done?*\n\n✅ Describe what other solutions (SOTAs) are to your problem.\n\n✅ Usually follows a historical trajectory, e.g., classical geometric methods did X, learning-based methods did Y, and recent hybrid methods did Z."
+ },
+ {
+  "key": "1638029735891554304",
+  "kind": "tweet",
+  "title": "How to write the Introduction?",
+  "en": "*🤔 Q3: What's the gap?*\n\n✅ Explain why all these existing solutions are NOT satisfactory (in some aspects). This is important as your work often addresses a specific gap/flaw/drawback of existing work.\n\n🖼️ Use the example in your WHY figure to illustrate the *gap*."
+ },
+ {
+  "key": "1638029737024012288",
+  "kind": "tweet",
+  "title": "How to write the Introduction?",
+  "en": "*🤔 Q4: What have you done?*\n\n✅ Add \"In this paper, ...\" at the beginning of this paragraph. It helps provide a clean separation of the past/current work.\n\n✅ Talk about a) Task, b) High-level idea, c) Evaluation\n\n🖼️ Use your HOW figure to ground your discussions."
+ },
+ {
+  "key": "1638029738177441794",
+  "kind": "tweet",
+  "title": "How to write the Introduction?",
+  "en": "*🤔 Q5: What do you contribute?*\n\n✅ Not everything you do is \"novel\" e.g., a large part of your work may build upon some existing methods. Thus, it is a good practice to explicitly state your contributions.\n\n✅ Make a list so that lazy reviewers can use them in their reviews 😜"
+ },
+ {
+  "key": "1638029739288920064",
+  "kind": "tweet",
+  "title": "How to write the Introduction?",
+  "en": "In sum, the introduction section would look like this: \n\n🤔 What's the problem? (see 🖼️ WHAT figure)\n\n🤔 What have others done?\n\n🤔 What's the gap? (see 🖼️ WHY figure)\n\n🤔 What have you done? (see 🖼️ HOW figure)\n\n🤔 What do you contribute? \n\nHope this helps!"
+ },
+ {
+  "key": "title:1437443017510621185",
+  "kind": "title",
+  "title": "",
+  "en": "How to write a paper that looks like a good one?"
+ },
+ {
+  "key": "1437443017510621185",
+  "kind": "tweet",
+  "title": "How to write a paper that looks like a good one?",
+  "en": "How to write a paper that looks like a good one?\n\nYou worked super hard and did great research, but somehow the reviewer 2 just doesn't buy it. Why? 🤔\n\nIt's probably because your paper does not look like a good paper *visually*. 🙄\n\nHow? 👇👇👇 #AcademicTwitter"
+ },
+ {
+  "key": "1437443026461265924",
+  "kind": "tweet",
+  "title": "How to write a paper that looks like a good one?",
+  "en": "*Figure 1: WHAT did you do?*\n\nNothing is more frustrating than not being able to figure out what the paper is about until page 5. 😠Show a TEASER figure on the very first page highlighting the inputs/outputs/key findings."
+ },
+ {
+  "key": "1437443034384408579",
+  "kind": "tweet",
+  "title": "How to write a paper that looks like a good one?",
+  "en": "*Figure 2: WHY did you do it?*\n\nMotivate and justify the key insights/ideas of your work. It is often helpful to illustrate this more clearly by\n1) SIMPLIFYING with a toy example and\n2) CONTEXTUALIZING with prior work."
+ },
+ {
+  "key": "1437443042747822081",
+  "kind": "tweet",
+  "title": "How to write a paper that looks like a good one?",
+  "en": "*Figure 3: HOW did you do it?*\n\nShow an *overview* figure on how your method works. Label everything so that it provides a clear roadmap of the entire paper."
+ },
+ {
+  "key": "1437443054353461252",
+  "kind": "tweet",
+  "title": "How to write a paper that looks like a good one?",
+  "en": "*Move figures/tables to the top*\n\nAdd \"[!t]\" parameter to your figure/table so that LaTeX will try placing them on the top of the page. Why?\n\nFigures/tables are much easier to understand than reading plain texts. Moving them to the top helps readers quickly understand your work."
+ },
+ {
+  "key": "1437443062653927425",
+  "kind": "tweet",
+  "title": "How to write a paper that looks like a good one?",
+  "en": "*Self-contained figure/table caption*\n\nWhatever you want to say for the figure/table, say them in the caption. It's annoying to find and match the corresponding texts describing the figure/table in your paper. \n\nMore on avoiding mental correspondence: https://x.com/jbhuang0604/status/1279992087497314305"
+ },
+ {
+  "key": "1437443062653927425#quoted",
+  "kind": "quoted",
+  "title": "How to write a paper that looks like a good one?",
+  "en": "Sharing one idea I found useful for paper writing:\n\nDo NOT ask people to solve correspondence problems. \n\nSome Dos and Don'ts examples below:\n\n*Figures*: Don't ask people to match (a), (b), (c) ... with the descriptions in the figure caption. https://t.co/tc7f8pVZlk"
+ },
+ {
+  "key": "1437443075173912584",
+  "kind": "tweet",
+  "title": "How to write a paper that looks like a good one?",
+  "en": "*Concise notations*\n\nUse SINGLE letters for your math notations. Examples:\n• Color_j -&gt; C_j\n• Net -&gt; F(\\cdot)\n\nAll the other descriptions should be within \n\\mathrm"
+ },
+ {
+  "key": "1437443083612868613",
+  "kind": "tweet",
+  "title": "How to write a paper that looks like a good one?",
+  "en": "*Short titles*\n\nAdd titles (e.g., using \\paragraph) to your figure/table captions and the main texts. They make your paper more structured and organized and help your readers navigate the paper with ease."
+ },
+ {
+  "key": "1437443092114706432",
+  "kind": "tweet",
+  "title": "How to write a paper that looks like a good one?",
+  "en": "*Clean table*\n\nFollow simple design principles for making clean a table:\n• no \\line, use \\toprule, \\midrule, \\bottomrule\n• no vertical lines\n• left align text\n• center align numbers\n• group and remove repetition with multirow/multicol"
+ },
+ {
+  "key": "1437443098938945536",
+  "kind": "tweet",
+  "title": "How to write a paper that looks like a good one?",
+  "en": "*Avoid empty spaces*\n\nFill the paper into full page limit. It gives your readers a sense of a POLISHED and not RUSHED paper.\n\nMore on Deep Paper Gestalt: https://arxiv.org/abs/1812.08775"
+ },
+ {
+  "key": "1437443101459632136",
+  "kind": "tweet",
+  "title": "How to write a paper that looks like a good one?",
+  "en": "Hope this helps! If your paper looks like a good paper, reads like a good paper, then it's probably a good paper.\n\nHappy writing!\n\nAny additional tips on making your papers look awesome?"
+ },
+ {
+  "key": "1437564308674781185",
+  "kind": "extra",
+  "title": "How to write a paper that looks like a good one?",
+  "en": "@Alberto_H9 I added one example for each of the three figures.\n\nFigure 1 WHAT: https://x.com/jbhuang0604/status/1437560146612441089\n\nFigure 2 WHY: https://x.com/jbhuang0604/status/1437562132279738372\n\nFigure 3 HOW: https://x.com/jbhuang0604/status/1437563329455824905"
+ },
+ {
+  "key": "1437564600946397184",
+  "kind": "extra",
+  "title": "How to write a paper that looks like a good one?",
+  "en": "@MattHemsley3 Glad that you like it!"
+ },
+ {
+  "key": "1437564898071007234",
+  "kind": "extra",
+  "title": "How to write a paper that looks like a good one?",
+  "en": "@themintsv Oh no..."
+ },
+ {
+  "key": "title:1437931004451250176",
+  "kind": "title",
+  "title": "",
+  "en": "How to write clear and concise sentences?"
+ },
+ {
+  "key": "1437931004451250176",
+  "kind": "tweet",
+  "title": "How to write clear and concise sentences?",
+  "en": "How to write clear and concise sentences?\n\nGetting ready to write up your very first research paper? Writing a paper could be daunting, particularly for non-native English speakers. 😬😬😬 How can we avoid common mistakes in technical writing?\n\nCheck out the thread below! 🧵"
+ },
+ {
+  "key": "1437931021706612736",
+  "kind": "tweet",
+  "title": "How to write clear and concise sentences?",
+  "en": "*Active voice*\n\nFriends don’t let friends use passive voice!\n\nUsing passive voice hides the subject and creates ambiguous, indirect, and wordy sentences. Things don't \"get done\" by themselves. Take responsibility for what you do and use active voice whenever possible."
+ },
+ {
+  "key": "1437931029759766534",
+  "kind": "tweet",
+  "title": "How to write clear and concise sentences?",
+  "en": "*Statements in positive form*\n\nTell your readers \"what is\" instead of \"what is not\". \n\nnot honest ➡️ dishonest\ndid not remember ➡️ forgot \ndid not pay any attention to ➡️ ignored \ndid not have much confidence in ➡️ distrusted"
+ },
+ {
+  "key": "1437931037372395522",
+  "kind": "tweet",
+  "title": "How to write clear and concise sentences?",
+  "en": "*Which (non-restrictive) vs. That (restrictive)*\n\nAs a WHICH adjective clause is non-essential and non-defining, you go on a \"which hunt\" and break down long sentences with into simpler ones.\n\nMore on restrictive/non-restrictive adjective clauses: https://youtu.be/NjTM4booWHo"
+ },
+ {
+  "key": "1437931050278309888",
+  "kind": "tweet",
+  "title": "How to write clear and concise sentences?",
+  "en": "*Respectively*\n\nDo not ask your readers to solve mental correspondence  problems. Revise the sentence to get rid of \"respectively\". \n\nExample: https://x.com/jbhuang0604/status/1279992094577352704?s=20"
+ },
+ {
+  "key": "1437931050278309888#quoted",
+  "kind": "quoted",
+  "title": "How to write clear and concise sentences?",
+  "en": "*Respectively*\n\nIt's hard to parse which corresponds to which in the sentence that ends with \"respectively\" (have to solve a long-range correspondence problem). Break them them so that one sentence talks about one thing. https://t.co/GLZWhjxlEx"
+ },
+ {
+  "key": "1437931059048501249",
+  "kind": "tweet",
+  "title": "How to write clear and concise sentences?",
+  "en": "*Fancy words*\n\nI used to think using fancy words make the paper more \"academic\", but I now prefer simplicity and clarity.\n\nutilize ➡️ use\ninitiate ➡️ begin\nterminate ➡️ end\nascertain ➡️ find out \nconstitute ➡️ make up\ndisintegrate ➡️ break down"
+ },
+ {
+  "key": "1437931071446847496",
+  "kind": "tweet",
+  "title": "How to write clear and concise sentences?",
+  "en": "*Needless words*\n\nReplacing needless words with simple ones!\n\nat the time when ➡️ when\nowing to the fact that ➡️ since\nin spite of the fact that ➡️ though\nthe reason why is that ➡️ because\nthis is a subject that ➡️ this subject\nthe question as to whether or not ➡️ whether"
+ },
+ {
+  "key": "1437931079286116352",
+  "kind": "tweet",
+  "title": "How to write clear and concise sentences?",
+  "en": "*Remove vague pronoun references*\n\nFind and remove all the ambiguous pronoun references in your paper, e.g., that, this, it, these, those. \n\nReplace these vague pronoun references with SPECIFIC noun or noun phrase."
+ },
+ {
+  "key": "1437931087548780544",
+  "kind": "tweet",
+  "title": "How to write clear and concise sentences?",
+  "en": "*Few / A few / Quite a few*\n\nBe specific about the quantity you intend to describe.\n \nA few = Some (not many but some)\nFew = \"Only\" a few (a small number of)\nQuite a few = Many"
+ },
+ {
+  "key": "1437931095589326852",
+  "kind": "tweet",
+  "title": "How to write clear and concise sentences?",
+  "en": "*Note that*\n\nAvoid \"Note that\" and \"It should be noted that.\" Readers don't like to be frequently reminded to pay attention."
+ }
+]

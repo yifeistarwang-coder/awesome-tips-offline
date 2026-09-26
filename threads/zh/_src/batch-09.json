@@ -1,0 +1,236 @@
+[
+ {
+  "key": "1974226235921228141",
+  "kind": "tweet",
+  "title": "How to revise an academic poster?",
+  "en": "For results, the initial draft is yet another list. \n\nI think it would be fun to present it visually for a change.\n\nUnfortunately, I was told that robotics people are quite conservative and they will not like this. \n\nSo my revision suggestion was rejected..."
+ },
+ {
+  "key": "1974228128579891348",
+  "kind": "tweet",
+  "title": "How to revise an academic poster?",
+  "en": "BEFORE \n\nTwo issues with the original result presentation\n- unclear correspondence because the texts are not on the same line\n- the blue color is a bit arbitrary\n\nAFTER\n- fix the alignment\n- user green to invoke the concept of *gain* (from stock markets)"
+ },
+ {
+  "key": "1974228980338237610",
+  "kind": "tweet",
+  "title": "How to revise an academic poster?",
+  "en": "When presenting results in tables, be sure to include annotations (e.g., success rate) to provide context. \n\nWithout such information, it can be difficult for readers to interpret the results accurately."
+ },
+ {
+  "key": "1974233905315119219",
+  "kind": "tweet",
+  "title": "How to revise an academic poster?",
+  "en": "Let's put all these together. Here is the revised poster.\n\nThere are still many areas for improvement, such as the overview figure, excessive text, excessive colors, and layout design. \n\nBut, with these changes, it's now a decent poster presentation!"
+ },
+ {
+  "key": "1974234651494400417",
+  "kind": "tweet",
+  "title": "How to revise an academic poster?",
+  "en": "Here is the PPT file for the three versions of the poster.  \n\nhttps://www.dropbox.com/scl/fi/abjsbt44tfyfxr2exqfc9/poster_IVE.pptx?rlkey=gbhtuyq2a3iqtbsmccpjlyvfu&dl=0\n\nThanks, @JayLEE_0301, for the poster design/revision!\n\nAnd if you are interested, check out the research here: https://ive-robot.github.io/"
+ },
+ {
+  "key": "title:1752768310087737588",
+  "kind": "title",
+  "title": "",
+  "en": "How to present your work via videos?"
+ },
+ {
+  "key": "1752768310087737588",
+  "kind": "tweet",
+  "title": "How to present your work via videos?",
+  "en": "How to present your work with videos?\n\nAs academics, we are used to sharing and communicating our work via static text, figures, and tables. \n\nBut in many cases, videos are a much better medium for communicating your ideas clearly.\n\nSharing some tricks I learned below 🧵"
+ },
+ {
+  "key": "1752768311526408606",
+  "kind": "tweet",
+  "title": "How to present your work via videos?",
+  "en": "*Meet the expectations upfront*\n\nI used to think I should kick off the presentation by introducing myself, discussing how significant the problem is, and (lots of unrelated) related work to feel more \"academic\". \n\nBe direct and specific instead!\n\nExample: https://youtu.be/IfHiGSsm7K0"
+ },
+ {
+  "key": "1752768313153761699",
+  "kind": "tweet",
+  "title": "How to present your work via videos?",
+  "en": "*Consider the trade-off of space and time*\n\n• Space: the content you pack into one frame\n• Time: the sequence of frames\n\nThink about what you want to convey (your results? comparisons?) and compose the video accordingly.\n\nExample: https://youtu.be/VizL7q9o-5Y"
+ },
+ {
+  "key": "1752772130264014947",
+  "kind": "tweet",
+  "title": "How to present your work via videos?",
+  "en": "*Animate math derivation*\n\nMake your presentation consistent. Here is the consistency mindset that applies to math derivation.\n\nInstead of packing your frames with visual equations, use simple morph transitions for better illustration.\n\nExample: https://youtu.be/i2qSxMVeVLI"
+ },
+ {
+  "key": "1752772131694199021",
+  "kind": "tweet",
+  "title": "How to present your work via videos?",
+  "en": "*Use visual pointers*\n\nWhen your frames are cluttered with many visual elements, it's helpful to point out what you are talking about.\n\nExample: https://youtu.be/i2qSxMVeVLI"
+ },
+ {
+  "key": "1752772132956737752",
+  "kind": "tweet",
+  "title": "How to present your work via videos?",
+  "en": "*Sound effects - Actions*\n\nAdding simple sound effects to your video improves the clarity of your messages.\n\nHere is an example showing the sound effects of the \"trim\" action.\n\nExample: https://youtu.be/8vi5K8pTM3c"
+ },
+ {
+  "key": "1752772690803318814",
+  "kind": "tweet",
+  "title": "How to present your work via videos?",
+  "en": "*Sound effects - Semantics*\n\nSound effects can also be helpful to reinforce the semantics of the visual elements (e.g., moooo~~~).\n\nExample: https://youtu.be/i2qSxMVeVLI"
+ },
+ {
+  "key": "1752773671272190005",
+  "kind": "tweet",
+  "title": "How to present your work via videos?",
+  "en": "Sound effects - Expressing emotion*\n\nNobody cheers for you? Cheer yourself up!\n\nExample: https://youtu.be/VizL7q9o-5Y"
+ },
+ {
+  "key": "1752773672476049796",
+  "kind": "tweet",
+  "title": "How to present your work via videos?",
+  "en": "*Sound effects - Showing unexpected outcome*\n\nAdding \"glitch\" effects to illustrate the unexpected.\n\nExample: https://youtu.be/m_-mNNrhvgc"
+ },
+ {
+  "key": "1752773674183131423",
+  "kind": "tweet",
+  "title": "How to present your work via videos?",
+  "en": "*Music - Ducking*\n\nIt's great to have background music.\n\nBut sometimes it interferes with your narratives.\n\nAdd ducking effects so that it dynamically changes the volume.\n\nExample: https://youtu.be/Rkt2EeHHbHI"
+ },
+ {
+  "key": "1752774360136348074",
+  "kind": "tweet",
+  "title": "How to present your work via videos?",
+  "en": "*Music - Matching visuals with beats*\n\nListen to your music and match the cuts with the beats!\n\nExample: https://youtu.be/o-tljMgkGew"
+ },
+ {
+  "key": "1752774859267178990",
+  "kind": "tweet",
+  "title": "How to present your work via videos?",
+  "en": "*Music - J-cut and L-cut*\n\nMatching the visuals with music all the time can be boring. Try different cuts to maintain a better video flow.\n\nJ-cut: sound first, visual follows\nL-cut: visual first, sound follows\n\nHere is an example of a J-cut.\n\nExample: https://youtu.be/VizL7q9o-5Y"
+ },
+ {
+  "key": "1752777079790145938",
+  "kind": "tweet",
+  "title": "How to present your work via videos?",
+  "en": "*Sound effects - Matching visuals*\n\nAnimate the text with typewriter effects?\n-&gt; Add typing sound\n\nAnimate the image?\n-&gt; Add mouse click sound\n\nExample: https://youtu.be/ihDbAUh0LXk"
+ },
+ {
+  "key": "1752777081119711646",
+  "kind": "tweet",
+  "title": "How to present your work via videos?",
+  "en": "*Maintain consistency in your explanation*\n\nUse consistent graphics/notation/color/motion to help your audience understand how things work.\n\nExample: https://youtu.be/ljar4GAFkUk"
+ },
+ {
+  "key": "title:1379448897823776769",
+  "kind": "title",
+  "title": "",
+  "en": "How to disseminate your research?"
+ },
+ {
+  "key": "1379448897823776769",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "Sharing ideas on how to disseminate your research. \n\n\"I am THRILLED to share that our paper is accepted to ...\"\n\nCongrats! So what's next? No one is going to browse through the list of thousands of accepted papers. Ain't nobody got time for that.\n\nCheck out 🧵below for examples."
+ },
+ {
+  "key": "1379448899459514369",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "*Website*\n\nUse memorable domain names for your project website so that people can easily find/share the link. No university account? That's okay. Register a new name for GitHub pages.\n\nExamples:\n• http://oops.cs.columbia.edu/\n• http://crowdsampling.io/\n• http://robust-cvd.github.io/"
+ },
+ {
+  "key": "1379448946406346758",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "*Acronym*\n\nMake it easy for people to remember and refer to your work. As David Patterson said, the vowel is important.\n\nFor example, NeRF sounds waaaaaay cooler than NRF.."
+ },
+ {
+  "key": "1379448948675506181",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "*Result video*\n\nMake a simple video showing the killer results from your work! Based on my back-of-the-envelope calculation, I would have to present this ECCV paper in the zoom poster session for 18 years straight to reach the same level of visibility.\n\nhttps://x.com/jbhuang0604/status/1301899594838704128?s=20"
+ },
+ {
+  "key": "1379448948675506181#quoted",
+  "kind": "quoted",
+  "title": "How to disseminate your research?",
+  "en": "Super excited to share our work on video completion at #ECCV2020!🤩Our method seamlessly removes objects, watermarks, or expands field-of-view from casually captured videos.\n\nPaper: https://t.co/JwT9bYN85V\nProject: https://t.co/7raLq7jVQx\n\nWith @gaochen315, Ayush, and @JPKopf https://t.co/eLGjINlbMC"
+ },
+ {
+  "key": "1379448950525157376",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "*Paper video*\n\nHaving a short video introducing the essence of the paper is arguably THE BEST.\n\nExamples I like \n• https://www.youtube.com/watch?v=EpH175PY1A0 \n(@jon_barron)\n• https://www.youtube.com/watch?v=K3z68mOLbNo (@AbeDavis)\n• https://www.youtube.com/watch?v=sA4Za3Hv6ng (@JPKopf)"
+ },
+ {
+  "key": "1379448955201851394",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "*Downloadable results*\n\nDo not put your result videos on YouTube and then embed them on your website. Make it super easy for people to download (and share) your results. Help people help share your work.\n\nNo image/video size limits so share the highest quality possible."
+ },
+ {
+  "key": "1379448959219949570",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "*Additional results*\n\nVery often you need to work hard constructing the baseline results across multiple datasets. Make them available so that people can easily follow up. For example, many citations of this work are not for specific technical contributions."
+ },
+ {
+  "key": "1379448963171037185",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "*Supplementary website*\n\nOrganize all the results across multiple datasets, methods, and ablation on a webpage. This allows EVERYONE (including myself) to interactively explore the results. \n\nExample:\nhttps://alex04072000.github.io/ObstructionRemoval/website/Obstruction_HTML_CameraReady/pages/reflection.html"
+ },
+ {
+  "key": "1379448965112942594",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "*GitHub*\n\nDon't simply dump unorganized research code to GitHub. Write clear instructions and simplify the steps required to get the code running. \n\nExamples I like:\n- https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix (@junyanz89)\n- https://github.com/NVlabs/stylegan2"
+ },
+ {
+  "key": "1379448968476827655",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "*Colab*\n\nNot everyone has the knowledge/resources to set up the environment required for your code on GitHub. Preparing a colab notebook demo (or other platforms) allows everyone to play around with your method."
+ },
+ {
+  "key": "1379465787707170819",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "*arXiv*\n\nHost all your papers on arXiv. It's very frustrating to papers behind the paywall. Posting your paper at a specific time further increases the visibility/readership/impact of your work.\n\nhttps://x.com/jbhuang0604/status/1337985347733622788?s=20"
+ },
+ {
+  "key": "1379465787707170819#quoted",
+  "kind": "quoted",
+  "title": "How to disseminate your research?",
+  "en": "Have you ever wondered why papers from top universities/research labs often appear in the top few positions in the daily email and web announcements from arXiv?\n\nWhy is that the case? Why should I care? https://t.co/BdjIs0dP8X"
+ },
+ {
+  "key": "1379465789095432195",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "*Teaser image/video*\n\nOn your publication page, show teaser images/videos so that people can quickly browse through all your work. Work hard to optimize the quality of your teaser! Trust me, it's definitely worth your time.\n\nhttps://filebox.ece.vt.edu/~jbhuang/#pubs"
+ },
+ {
+  "key": "1379522270146793477",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "*Engagement*\n\nWhen sharing on social media or other sites (e.g., Twitter, YouTube, HackerNews, Reddit...), engage with people who comment on your work even tho sometimes you may encounter comments with bad intentions. Over time, they will be your best allies."
+ },
+ {
+  "key": "1379549674688946180",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "* Hyperlinks*\n\nMake sure every page has hyperlinks to every other pages. For examples, add links to authors’ pages, related projects, GitHub/Colab, datasets, YouTube videos additional results. Make it easy to navigate the contents via multiple paths."
+ },
+ {
+  "key": "1379549679193632769",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "*BibTeX*\n\nEveryone knows that bibtex from google scholar is erroneous. Do your readers a favor and help people cite your paper correctly."
+ },
+ {
+  "key": "1379653498837602309",
+  "kind": "tweet",
+  "title": "How to disseminate your research?",
+  "en": "*Paper title*\n\nA title should capture what is SPECIAL about the paper. Check out the talk by Jitendra Malik about the paper title.\n\nBTW, the entire workshop is awesome. Check them out!\nhttps://www.cc.gatech.edu/~parikh/citizenofcvpr/"
+ }
+]

@@ -1,0 +1,320 @@
+[
+ {
+  "key": "1437931097346748418",
+  "kind": "tweet",
+  "title": "How to write clear and concise sentences?",
+  "en": "*Resources*\n\nCheck out many wonderful writing advices on the web!\n\nhttp://www.jlakes.org/ch/web/The-elements-of-style.pdf\n\nhttps://vision.sjtu.edu.cn/writing.html\n\nhttps://taoxie.cs.illinois.edu/advice.htm"
+ },
+ {
+  "key": "1437931098697306115",
+  "kind": "tweet",
+  "title": "How to write clear and concise sentences?",
+  "en": "That's all (for now)! \n\nWould love to learn more about your favorite tips on writing clearly and concisely!"
+ },
+ {
+  "key": "1437986944257036290",
+  "kind": "tweet",
+  "title": "How to write clear and concise sentences?",
+  "en": "*Case*\n\nOften redundant!\n\nBefore: In many cases, the rooms lacked air conditioning. \nAfter: Many of the rooms lacked air conditioning. \n\nBefore: It has rarely been case that any mistake has been made. \nAfter: Few mistakes have been made.\n\nSource: The Elements of Style"
+ },
+ {
+  "key": "1437986953262141443",
+  "kind": "tweet",
+  "title": "How to write clear and concise sentences?",
+  "en": "*However*\n\nWe often use \"however\" as \"nevertheless/in spite of that\" in a paper. Do NOT start with a sentence with however to avoid confusion. Why?\n\nWhen starting with however, it means \"in whatever manner/way\" or \"to whatever degree/extent\"."
+ },
+ {
+  "key": "1437986960921042948",
+  "kind": "tweet",
+  "title": "How to write clear and concise sentences?",
+  "en": "*Transitions*\n\nUse transitions to connect sentences. \n\n• Space: above, below, inside \n\n• Cause and effect: as a result, because, since \n\n• Similarity: as, likewise, similarly\n\n• Contrast: although, however, on the other hand, in contrast\n\nSource: https://stanford.edu/class/ee267/WIM/writing_style_guide.pdf"
+ },
+ {
+  "key": "title:1665738070002483201",
+  "kind": "title",
+  "title": "",
+  "en": "How to draw an overview figure?"
+ },
+ {
+  "key": "1665738070002483201",
+  "kind": "tweet",
+  "title": "How to draw an overview figure?",
+  "en": "How to draw an overview figure?\n\nCreating a clear and informative overview figure is crucial for visualizing HOW your method works. \n\nBut how? 🤔 Let's deep dive with 🐢"
+ },
+ {
+  "key": "1665738072196096003",
+  "kind": "tweet",
+  "title": "How to draw an overview figure?",
+  "en": "*Choose the right level of abstraction*\n\nSimplifying complex procedures helps improve clarity.\n\nAsk yourself what the key message you want to convey. Don't overwhelm your readers with unnecessary details."
+ },
+ {
+  "key": "1665738074964258817",
+  "kind": "tweet",
+  "title": "How to draw an overview figure?",
+  "en": "*Think in terms of computational graph*\n\nMost methods process some INPUT with some COMPUTATION to produce some OUTPUT. \n\nVisualize the flow with a \"computational graph\".\n\n• Nodes: Computation\n• Arrows: Dependency"
+ },
+ {
+  "key": "1665738077552140288",
+  "kind": "tweet",
+  "title": "How to draw an overview figure?",
+  "en": "*Use an example*\n\nWhile your overview figure illustrates an *abstract* workflow, visualizing the intermediate variables/data with a *concrete* example makes it easier to understand."
+ },
+ {
+  "key": "1665738080052027393",
+  "kind": "tweet",
+  "title": "How to draw an overview figure?",
+  "en": "*Follow the left-to-right direction*\n\nMost languages read from left to right. ⏩⏩\n\nFollowing this direction makes your figure \"read\" better."
+ },
+ {
+  "key": "1665738082321039364",
+  "kind": "tweet",
+  "title": "How to draw an overview figure?",
+  "en": "*Apply formatting strategically*\n\nBe purposeful when you use formatting to highlight similarity, grouping, and contrast. \n\nMake sure that you don't overdo it."
+ },
+ {
+  "key": "1665738085202640897",
+  "kind": "tweet",
+  "title": "How to draw an overview figure?",
+  "en": "*Use proper font size*\n\nUse consistent and clearly visible font size. \n\nDon't make your overview figure a vision test. 🧐"
+ },
+ {
+  "key": "1665738087744299008",
+  "kind": "tweet",
+  "title": "How to draw an overview figure?",
+  "en": "*Use consistent formatting*\n\n• Capitalize the first character for the first word?\n• Capitalize the first character for every word?\n• All caps?\n• All lowercase?\n\nPick one and stick with it."
+ },
+ {
+  "key": "1665738090395193346",
+  "kind": "tweet",
+  "title": "How to draw an overview figure?",
+  "en": "*Align everything*\n\nTiny bits of misalignment here and there distract your readers. (Look how annoying this looks like!)\n\nAlign the positions, spacing, and sizes."
+ },
+ {
+  "key": "1665738093121421314",
+  "kind": "tweet",
+  "title": "How to draw an overview figure?",
+  "en": "*Use consistent styles*\n\nPut the label \n• below the image?\n• above the image?\n• within the image?\n• to the right of the image?\n\nPick one and be consistent."
+ },
+ {
+  "key": "1665738095965229061",
+  "kind": "tweet",
+  "title": "How to draw an overview figure?",
+  "en": "*Provide a roadmap for the paper*\n\nAdd labels for sections, equations, and figures to provide a roadmap for the paper."
+ },
+ {
+  "key": "1665738098519556099",
+  "kind": "tweet",
+  "title": "How to draw an overview figure?",
+  "en": "*Be explicit about the dependency/computation*\n\nWhen you merge two arrows, it's unclear what happened there. \n\nDid you add/subtract/multiply/max/min/some other things? Or does the DO SOMETHING module take two separate inputs? Make it explicit!"
+ },
+ {
+  "key": "1665738101111521281",
+  "kind": "tweet",
+  "title": "How to draw an overview figure?",
+  "en": "*Avoid overloading the interface*\n\nHere the DO SOMETHING module takes only ONE single input. \n\nThe example above obscures this process (it looks like the module takes two inputs simultaneously)."
+ },
+ {
+  "key": "1665738103414292481",
+  "kind": "tweet",
+  "title": "How to draw an overview figure?",
+  "en": "I am not a designer, but these tips have helped me improve the clarity of my work. \n\nHope you will find them useful as well!\n\nWhat are your favorite tips for creating an overview figure?"
+ },
+ {
+  "key": "title:1626372600824844289",
+  "kind": "title",
+  "title": "",
+  "en": "How to create a good table?"
+ },
+ {
+  "key": "1626372600824844289",
+  "kind": "tweet",
+  "title": "How to create a good table?",
+  "en": "How to create a good table?\n\nWhile in grad school, I thought my job writing the paper was done after dumping all the numerical numbers from my experiments in a table. 🤦‍♂️  \n\nCheck out some tips that will help you improve the quality of your tables! 🧵"
+ },
+ {
+  "key": "1626372602259206144",
+  "kind": "tweet",
+  "title": "How to create a good table?",
+  "en": "*1⃣ Avoid vertical lines*\n\nHaving vertical lines in a table almost always makes the table less readable. Avoid them at all costs."
+ },
+ {
+  "key": "1626372604440326145",
+  "kind": "tweet",
+  "title": "How to create a good table?",
+  "en": "*2⃣ Never, ever use double rules*\n\nFeel the urge to use double rules (\\hline)?\n\nTry the \\toprule, \\midrule, \\bottomrule using the booktabs package instead! It levels up your table in no time!"
+ },
+ {
+  "key": "1626372606596206593",
+  "kind": "tweet",
+  "title": "How to create a good table?",
+  "en": "*3⃣ Label the columns*\n\nAdd up/down arrows to let readers know how to interpret the numbers.\n\nAdd units to let your readers understand what the numbers mean."
+ },
+ {
+  "key": "1626372608747864065",
+  "kind": "tweet",
+  "title": "How to create a good table?",
+  "en": "*4⃣ Align everything*\n\n• Align texts to the left\n• Align numbers to the center\n• Align numbers at consistent decimal point"
+ },
+ {
+  "key": "1626372611163684867",
+  "kind": "tweet",
+  "title": "How to create a good table?",
+  "en": "*5⃣ Grouping results*\n\nHave two or more groups of results and feel the urge again to separate them using vertical lines? \n\n\\multicolumn comes to the rescue!\n\nRemember to use \\cmidrule to group the right columns!"
+ },
+ {
+  "key": "1626372613441290240",
+  "kind": "tweet",
+  "title": "How to create a good table?",
+  "en": "*6⃣ Encode rows with attributes*\n\nOne table, one message. Don't mix all the results together.\n\nIf possible, encode different rows using *attributes* so that it's easy for readers to understand/compare results from different rows."
+ },
+ {
+  "key": "1626372615592976388",
+  "kind": "tweet",
+  "title": "How to create a good table?",
+  "en": "Hope this helps! \n\nHaving a clean and clear table definitely gets your message across more effectively! \n\nWhat's your favorite tip on creating tables?"
+ },
+ {
+  "key": "1626813373537984512",
+  "kind": "extra",
+  "title": "How to create a good table?",
+  "en": "@ccrommel Figures are good for showing the *general trend*. \nTables are good for showing *specific numbers*. \n\nYour tables can easily be re-used in the follow-up work, but not your figures."
+ },
+ {
+  "key": "title:1643118681960923137",
+  "kind": "title",
+  "title": "",
+  "en": "How to write math in a paper?"
+ },
+ {
+  "key": "1643118681960923137",
+  "kind": "tweet",
+  "title": "How to write math in a paper?",
+  "en": "How to write math in a paper?\n\nMath allows you to convey your idea precisely and concisely. But how to write them clearly? 🤔\n\nCheck out some high-level tips (with examples). 🧵"
+ },
+ {
+  "key": "1643118683231776770",
+  "kind": "tweet",
+  "title": "How to write math in a paper?",
+  "en": "*Make it readable*\n\nMath writing blends both NATURAL and MATH languages. It should be *readable*."
+ },
+ {
+  "key": "1643118685073166337",
+  "kind": "tweet",
+  "title": "How to write math in a paper?",
+  "en": "*Follow good style*\n\n• texts in math: \\mathrm for \n• transpose: use ^\\top instead of ^T\n• big parentheses: use \\left and \\right"
+ },
+ {
+  "key": "1643118686813794304",
+  "kind": "tweet",
+  "title": "How to write math in a paper?",
+  "en": "*Refer to notation together with their name*\n\nNothing is more frustrating than flipping pages to figure out what your notations mean."
+ },
+ {
+  "key": "1643118688504107010",
+  "kind": "tweet",
+  "title": "How to write math in a paper?",
+  "en": "*Name every equation*\n\nYour readers will thank you!"
+ },
+ {
+  "key": "1643118690487943170",
+  "kind": "tweet",
+  "title": "How to write math in a paper?",
+  "en": "*Write in a consistent format*\n\nReduce the mental load of your readers."
+ },
+ {
+  "key": "1643118692367052800",
+  "kind": "tweet",
+  "title": "How to write math in a paper?",
+  "en": "*Avoid redundant notation*\n\nIf you will not use them again, you don't need to introduce unnecessary notations."
+ },
+ {
+  "key": "1643118694199963648",
+  "kind": "tweet",
+  "title": "How to write math in a paper?",
+  "en": "*Define notation &amp; macros*\n\nUse descriptive names as your macros. \nIt helps avoid notation inconsistency in your paper."
+ },
+ {
+  "key": "1643118695881879552",
+  "kind": "tweet",
+  "title": "How to write math in a paper?",
+  "en": "*Simplify notation*\n\ne.g., avoid parenthesized indexes"
+ },
+ {
+  "key": "1643118697421127684",
+  "kind": "tweet",
+  "title": "How to write math in a paper?",
+  "en": "*Use negative numbers correctly*\n\nThe \"-\" is interpreted as a hyphen by your LaTeX editor. Use $-1$ instead."
+ },
+ {
+  "key": "1643118699212165121",
+  "kind": "tweet",
+  "title": "How to write math in a paper?",
+  "en": "Resources/References: \n\nCheck out the excellent resources here!\nhttps://www.robots.ox.ac.uk/~phst/Style/Ten_Rules.pdf\n\nhttps://cs.dartmouth.edu/~wjarosz/writing.md.html\n\nhttps://www.ece.ucdavis.edu/~jowens/commonerrors.html\n\nhttps://people.csail.mit.edu/fredo/PUBLI/writing.pdf"
+ },
+ {
+  "key": "title:1387148974377865219",
+  "kind": "title",
+  "title": "",
+  "en": "How to prepare journal response letter?"
+ },
+ {
+  "key": "1387148974377865219",
+  "kind": "tweet",
+  "title": "How to prepare journal response letter?",
+  "en": "Sharing ideas on writing revision response letters.\n\nWhen submitting a paper to a journal, almost surely you will get a major/minor revision recommendation from the associated editor. How should we respond?\n\nCheck out the examples https://www.overleaf.com/read/ccjtfbxcnvkv\nand some tips 💡below"
+ },
+ {
+  "key": "1387148982753939467",
+  "kind": "tweet",
+  "title": "How to prepare journal response letter?",
+  "en": "*Just do it*\n\nUnlike rebuttals for conferences where you promise the changes you WILL include, response letters for journals should show what the changes you ALREADY DID. \n\nRespect the reviewers' time and follow the core principles to make it clear, self-contained, and thorough."
+ },
+ {
+  "key": "1387148991410974723",
+  "kind": "tweet",
+  "title": "How to prepare journal response letter?",
+  "en": "*One comment/question at a time*\n\nVery often reviewers may write comments with several long paragraphs. Parse and organize the comments into \"bite-sized\" questions so you can respond directly with evidence support."
+ },
+ {
+  "key": "1387148999531143171",
+  "kind": "tweet",
+  "title": "How to prepare journal response letter?",
+  "en": "*Be thorough*\n\nProperly address ALL the comments from the reviewers, even for comments you don't agree with (e.g., explain why you cannot add X baseline, run on Y dataset). Failing to do so leads to unnecessary delays for your papers."
+ },
+ {
+  "key": "1387149001842118663",
+  "kind": "tweet",
+  "title": "How to prepare journal response letter?",
+  "en": "*Self-contained*\n\n• New figures/tables? Add them to the response letter.\n• Revised texts? Show the texts *before* and *after* your revision. \n• Include a manuscript with highlighted changes.\n\nDon't ask reviewers to solve mental correspondence.\n\nhttps://x.com/jbhuang0604/status/1279992087497314305?s=20"
+ },
+ {
+  "key": "1387149001842118663#quoted",
+  "kind": "quoted",
+  "title": "How to prepare journal response letter?",
+  "en": "Sharing one idea I found useful for paper writing:\n\nDo NOT ask people to solve correspondence problems. \n\nSome Dos and Don'ts examples below:\n\n*Figures*: Don't ask people to match (a), (b), (c) ... with the descriptions in the figure caption. https://t.co/tc7f8pVZlk"
+ },
+ {
+  "key": "1387149035635625992",
+  "kind": "tweet",
+  "title": "How to prepare journal response letter?",
+  "en": "*Be proactive*\n\nQ from R2: How did you set the value $K$? Sensitivity matters.\n\nLvl 1: Empirically. \nLvl 2: We choose K via cross-validation.\nLvl 3: Show the entire process. Comment on the sensitivity of the value of K on the validation set."
+ },
+ {
+  "key": "1387149045030850560",
+  "kind": "tweet",
+  "title": "How to prepare journal response letter?",
+  "en": "*Be polite and professional*\n\nTreat reviewers as your colleagues who help you improve your work. Very often they help point out flaws and provide valuable suggestions. Thank them."
+ },
+ {
+  "key": "title:1592563395936817154",
+  "kind": "title",
+  "title": "",
+  "en": "How to prepare supplementary material?"
+ },
+ {
+  "key": "1592563395936817154",
+  "kind": "tweet",
+  "title": "How to prepare supplementary material?",
+  "en": "How to prepare supplementary material?\n\nAccompanying your paper submissions with supp material has become standard. But why/what/how to prepare good supplementary material remain unclear to many junior students. 😕\n\nSharing some ideas below 🧵"
+ }
+]

@@ -1,0 +1,260 @@
+[
+ {
+  "key": "1506101769461456908",
+  "kind": "tweet",
+  "title": "How to present a line plot?",
+  "en": "*Step 1: Describe the X-axis*\n\n❌ Show the entire plot. Waaaay too much to unpack. \n\n✅ Show *only the X-Y axis* (no lines yet!). Describe what factors you SUSPECT have an impact on the Y-axis, e.g., time, model complexity, dataset size."
+ },
+ {
+  "key": "1506101777367801859",
+  "kind": "tweet",
+  "title": "How to present a line plot?",
+  "en": "*Step 2: Describe the Y-axis*\n\nTell us ...\n👉 what are we measuring?\n👉 is higher or lower number better?\n👉 what would a perfect/oracle curve look like?"
+ },
+ {
+  "key": "1506101786406498304",
+  "kind": "tweet",
+  "title": "How to present a line plot?",
+  "en": "*Step 3: Set the stage*\n\nNow that you explain what the plot is about, set the stage by showing the results from \n✅ naïve results (e.g., random guess)\n✅ baseline methods\n✅ competing approaches"
+ },
+ {
+  "key": "1506101811375132673",
+  "kind": "tweet",
+  "title": "How to present a line plot?",
+  "en": "*Step 5: Compare*\n\nDon't just show, relate and compare!\n\nExamples:\n⏩ (fixed Y-axis) Ours achieves the same accuracy but runs 100x faster / uses only 5% of the training data\n⏩ (fixed X-axis) Under the same model, ours reduces the errors by 30%."
+ },
+ {
+  "key": "1506101815162638338",
+  "kind": "tweet",
+  "title": "How to present a line plot?",
+  "en": "*Step 6: Contextualize your results*\n\nConvert the numbers to something that others can easily relate. \n\nFor example, \n❌ the code runs one frame per second\n✅ for a car running at 90 km/hr, by the time we process the next image, the car has move forward by 25 meters."
+ },
+ {
+  "key": "1506127240123273217",
+  "kind": "extra",
+  "title": "How to present a line plot?",
+  "en": "@CrespoTR Yep, that's correct. Animations would be good. Or create multiple *partial* figures and show one per slide.\n\nMany senior researchers are bad presenters. 😬 \n\nExperiment yourself and develop your own style."
+ },
+ {
+  "key": "1506284766869565462",
+  "kind": "extra",
+  "title": "How to present a line plot?",
+  "en": "@darkcorp You can see these steps in action from @jcjohnss's talk. \n\nhttps://youtu.be/swg0wCRBUJE?t=349"
+ },
+ {
+  "key": "title:1397058827405742085",
+  "kind": "title",
+  "title": "",
+  "en": "How to prepare your presentation slides?"
+ },
+ {
+  "key": "1397058827405742085",
+  "kind": "tweet",
+  "title": "How to prepare your presentation slides?",
+  "en": "Sharing tips on preparing your presentation slides\n\nJust attend many thesis presentations and qual exams at the end of the semester. I compiled some common pitfalls here and hopefully would be helpful to some.\n\nCheck out the thread 🧵below!"
+ },
+ {
+  "key": "1397058831113457666",
+  "kind": "tweet",
+  "title": "How to prepare your presentation slides?",
+  "en": "*Outline*\n\nI am surprised to see so many talks starting with the OUTLINE.\n\nNo one, literally no one, will be excited by the: \"I will first introduce the problem, then I discuss related work, next I present our method, I show some results, and conclude the talk\"."
+ },
+ {
+  "key": "1397058838730268673",
+  "kind": "tweet",
+  "title": "How to prepare your presentation slides?",
+  "en": "*Be concise*\n\nDo not treat your slides as a script.\n\nRule of thumbs for my students preparing a talk:\n• Never write full sentences (unless quoting)\n• Always write one-liners \n• No more three lines of texts per slides"
+ },
+ {
+  "key": "1397058841938956288",
+  "kind": "tweet",
+  "title": "How to prepare your presentation slides?",
+  "en": "*Tables*\n\nThe tables in your paper/thesis are very informative with all the citations and compared methods. This is great. But, it's a disaster to present them as is in your talk. \n\nNo one knows what [17], [39] mean. Highlight and interpret the key results for your audience."
+ },
+ {
+  "key": "1397058845856440320",
+  "kind": "tweet",
+  "title": "How to prepare your presentation slides?",
+  "en": "*Figures*\n\nExplain how to read your plots. What does x-axis/y-axis mean? What do different lines mean? What can we learn from this plot?\n\nIf you plan to skip the discussion of some figures, just remove them."
+ },
+ {
+  "key": "1397058853779423233",
+  "kind": "tweet",
+  "title": "How to prepare your presentation slides?",
+  "en": "*Informative slides title* \n\nDon't use the most salient part of slides to show \"Results\", \"Visual comparison\", \"Ablation study\"\n\nThe title should describe the TAKEAWAY message from that slide."
+ },
+ {
+  "key": "1397058857386618880",
+  "kind": "tweet",
+  "title": "How to prepare your presentation slides?",
+  "en": "*Final slide*\n\nAvoid stoping at the \"Thank you slide\" in the end. Show the main results/conclusion/contributions of your work as your final slides. This helps remind people what you have done and helps them to ask good questions."
+ },
+ {
+  "key": "1397058858934276099",
+  "kind": "tweet",
+  "title": "How to prepare your presentation slides?",
+  "en": "*Resources*\n\nMany wonderful resources online. Check them out! A few pointers:\n\nPatrick Henry Winston: https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/\n\nMatt Might: https://matt.might.net/articles/academic-presentation-tips/\n\nKristen Grauman: https://www.youtube.com/watch?v=4LEZED1YXm0"
+ },
+ {
+  "key": "1397169302256693253",
+  "kind": "tweet",
+  "title": "How to prepare your presentation slides?",
+  "en": "*Animation*\n\nUse animation to break down a complicated diagram/figure/concept and describe them step by step.\n\nWhen advancing the slides, make sure that all the components are perfectly aligned to reduce mental load."
+ },
+ {
+  "key": "1397169310590722049",
+  "kind": "tweet",
+  "title": "How to prepare your presentation slides?",
+  "en": "*Videos*\n\nInsert the video (no YouTube embedding please) and use animation to control the timing to show up, play the video, and stop the video. Otherwise you may be busy trying to figure out where your cursor is to play the video during the talk."
+ },
+ {
+  "key": "1397208899674062849",
+  "kind": "tweet",
+  "title": "How to prepare your presentation slides?",
+  "en": "*Level of details*\n\nStudents tend to squeeze as much paper/thesis content as possible into the talk. This is understandable as all those are hard work. \n\nBut remember that your audience will be much happier to see a concise and clear talk."
+ },
+ {
+  "key": "1397230019118878733",
+  "kind": "tweet",
+  "title": "How to prepare your presentation slides?",
+  "en": "*Pointer*\n\nIf you plan to point to some number/texts/figure in your slides, add an arrow/box/circle pointing to that (with animation). Don't use your mouse pointer. \n\nDon't use a laser pointer for in-person talks as well. Nothing is more annoying than tracking a shaking red dot."
+ },
+ {
+  "key": "1397230020758802447",
+  "kind": "tweet",
+  "title": "How to prepare your presentation slides?",
+  "en": "That's all (for now)! Happy presenting!\n\nWhat are your favorite presentation tips (or the practice you hate the most)?"
+ },
+ {
+  "key": "1397349031983075329",
+  "kind": "tweet",
+  "title": "How to prepare your presentation slides?",
+  "en": "*Emphasis/De-emphasis*\n\nWhen you want to emphasize/highlight some take-home message or important concepts, make sure to “de-emphasize” all the rest of contents as well. \n\nHow? Add a square blocking the contents with 10% transparency."
+ },
+ {
+  "key": "1397293363980869632",
+  "kind": "extra",
+  "title": "How to prepare your presentation slides?",
+  "en": "@ftmguney Just reiterate some advices I received from my mentors. Trying to pay it forward whenever possible. :-)"
+ },
+ {
+  "key": "1397534898622279685",
+  "kind": "extra",
+  "title": "How to prepare your presentation slides?",
+  "en": "@gvmcmurray @mlatgt Exactly! It’s hard for the audience to do two things at the same time. Limiting the texts on the slides also help prepare a clearer talk since we need to distill the core messages/ideas."
+ },
+ {
+  "key": "title:1509033327981965313",
+  "kind": "title",
+  "title": "",
+  "en": "How to organize your talk?"
+ },
+ {
+  "key": "1509033327981965313",
+  "kind": "tweet",
+  "title": "How to organize your talk?",
+  "en": "How to organize your talk?\n\nQual/prelim/defense/conference season is coming up! 😱 How should we organize the talk so that your committee members won't fall asleep? \n\nSome simple tips I found useful ...👇"
+ },
+ {
+  "key": "1509033331983331332",
+  "kind": "tweet",
+  "title": "How to organize your talk?",
+  "en": "*Outline*\n\nOrganizing your talk with an OUTLINE slide? \n\nI couldn't think of a weaker way of starting presentation with an outline! 🥱\n\nInstead, start the presentation by explaining \n👉 WHY SHOULD THEY CARE? \n\nDescribe why the problem is important, interesting, and challenging."
+ },
+ {
+  "key": "1509033339981869058",
+  "kind": "tweet",
+  "title": "How to organize your talk?",
+  "en": "*Menu. Not outline*\n\nAfter motivating your talk, show a MENU slide that consists of two or three Entrée (topics that you want to cover in your talk). \n\nWhy? \n👉 because the menu provides an easy way to navigate your talk."
+ },
+ {
+  "key": "1509033347695140869",
+  "kind": "tweet",
+  "title": "How to organize your talk?",
+  "en": "*Tell them what you are going to say*\n\nPresent all the Entrée options, then highlight the first one (and don't forget to de-emphasize the remaining ones). \n\nThis helps people know where are we heading to."
+ },
+ {
+  "key": "1509033359678320640",
+  "kind": "tweet",
+  "title": "How to organize your talk?",
+  "en": "*Say it*\n\nNow you have set the stage. Just say it!\n\nHere you can use as many slides as you want to introduce the first Entrée."
+ },
+ {
+  "key": "1509033367907491844",
+  "kind": "tweet",
+  "title": "How to organize your talk?",
+  "en": "*Tell them what you've said*\n\nNext, after finishing the first part, zoom back out to the *same* menu slide. \n\n✅ Summarize what you've just said\n✅ Explain why we need to check out second Entrée (remember to emphasize/de-emphasize different Entrées)\n\nThen repeat the 3-steps."
+ },
+ {
+  "key": "1509033371611111430",
+  "kind": "tweet",
+  "title": "How to organize your talk?",
+  "en": "*Final slide*\n\nDo NOT show a meaningless \"thank you slide\". \n\nAt the end of your talk, bring back your MENU slide so that people can order (aka asking good questions) easily."
+ },
+ {
+  "key": "title:1865199644415832424",
+  "kind": "title",
+  "title": "",
+  "en": "How to design your presentation?"
+ },
+ {
+  "key": "1865199644415832424",
+  "kind": "tweet",
+  "title": "How to design your presentation?",
+  "en": "How to design your presentation? \n\nPresentation is an essential skill for academics. \n\nAfter attending so many meetings, prelims, thesis defenses, research talks, and lectures, I’ve realized that I may have been approaching it all wrong ...  \n\nSome (bitter) lessons I learned. 👇"
+ },
+ {
+  "key": "1865199651650933062",
+  "kind": "tweet",
+  "title": "How to design your presentation?",
+  "en": "*Slide title?*\n\n\"Every slide should have an informative title.\" \n\nI used to think that way, too, but recently, I’ve realized that it greatly limits flexibility. \n\nInstead, think of slides as visual aids. Removing all titles from my slides dramatically improved their clarity."
+ },
+ {
+  "key": "1865199658886152554",
+  "kind": "tweet",
+  "title": "How to design your presentation?",
+  "en": "*Bullet points?*\n\n\"Summarize your talking points as a list.\"\n\nThat \"click to add text\" prompt in an empty slide can tempt you to turn everything into a list of bullet points.\n\nBut it dilutes your message and makes it harder to follow. Instead, focus on presenting one idea at a time."
+ },
+ {
+  "key": "1865199665982951512",
+  "kind": "tweet",
+  "title": "How to design your presentation?",
+  "en": "*Transitions*\n\nI used to make slides, so each slide had its content/topic/title. But this meant that every time I advanced a slide, the audience's attention was RESET, disrupting their focus. \n\nNow, I fully embrace morph transitions, creating a natural, continuous flow of ideas."
+ },
+ {
+  "key": "1865199673251684678",
+  "kind": "tweet",
+  "title": "How to design your presentation?",
+  "en": "*Tool-oriented vs. problem-oriented*\n\nWhen teaching a topic, I often feel compelled to present tech background A, B, C, only to conclude why they matter to problem X later.\n\nBut that’s so backward—Why should people care? \n\nInstead, tell a story on how to solve a problem and discuss all the tools/algorithms/backgrounds along the way."
+ },
+ {
+  "key": "1865199681158209850",
+  "kind": "tweet",
+  "title": "How to design your presentation?",
+  "en": "*And then vs. But, therefore*\n\nIn a talk, you might have topics A, B, and C. I used to present them in order—A, then B, and then C.\n\nBut, that’s horrible for keeping attention. 😱\n\nInstead, tell a story about topic A. But sth terribly wrong happened, therefore we need topic B. But, B also has this serious issue. Therefore, it leads us to topic C."
+ },
+ {
+  "key": "title:1866987294894231756",
+  "kind": "title",
+  "title": "",
+  "en": "How to avoid common mistakes in your presentation?"
+ },
+ {
+  "key": "1866987294894231756",
+  "kind": "tweet",
+  "title": "How to avoid common mistakes in your presentation?",
+  "en": "Things you should avoid saying during your presentation \n\n... and the brutally honest thoughts of your audience. 🧵"
+ },
+ {
+  "key": "1866987301919920604",
+  "kind": "tweet",
+  "title": "How to avoid common mistakes in your presentation?",
+  "en": "\"Is that clear? Any questions? (...awkward silence)\"\n\nNo, it's not clear. It's so unclear that I don't even know where to start and ask a question without looking like a complete idiot."
+ },
+ {
+  "key": "1866987309154947450",
+  "kind": "tweet",
+  "title": "How to avoid common mistakes in your presentation?",
+  "en": "\"Let me know if this part is not clear. I will be happy to explain it again.\"\n\nNah, thanks, I've lost faith in your ability to explain this. Can we move on and pretend nothing happened?"
+ }
+]

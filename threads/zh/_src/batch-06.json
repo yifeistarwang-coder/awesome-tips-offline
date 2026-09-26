@@ -1,0 +1,254 @@
+[
+ {
+  "key": "1592563402819661824",
+  "kind": "tweet",
+  "title": "How to prepare supplementary material?",
+  "en": "*Why supplementary material?*\n\nWhen R2 reviews your paper, the only question in their mind is:\n\n\"HOW CAN I KILL THIS PAPER? 🧐\"\n\n• Unclear exposition?\n• Insufficient details?\n• Unconvincing validation? \n\nDon't give them any reason."
+ },
+ {
+  "key": "1592563410725900290",
+  "kind": "tweet",
+  "title": "How to prepare supplementary material?",
+  "en": "*What? - Exposition*\n\nUnable to explain your work well in the main paper due to the page limit? \n\nAnticipate the questions! Including additional figures, tables, proof, and algorithms in your supp material helps tremendously alleviate all these issues."
+ },
+ {
+  "key": "1592563418573045762",
+  "kind": "tweet",
+  "title": "How to prepare supplementary material?",
+  "en": "*What? - Details*\n\nReproducibility is one major concern of every reviewer. \n\nProvide sufficient implementation details of your method, data, methodology, and evaluation protocol so that everyone can reproduce your findings."
+ },
+ {
+  "key": "1592563430267187201",
+  "kind": "tweet",
+  "title": "How to prepare supplementary material?",
+  "en": "*What? - Validation*\n\nA paper may not be the right format to best present the experimental validation. \n\nFor example, you should definitely show video results (not sampled frames) if you work on video. \n\nShowing images of video is like showing a 1D scanline of an image!"
+ },
+ {
+  "key": "1592563438320234496",
+  "kind": "tweet",
+  "title": "How to prepare supplementary material?",
+  "en": "*How? - Organization*\n\nDon't simply brain-dump all the contents without a clear organization. \n\nPersonally, I am a big fan of organizing all the results via local (no external links) HTML files. I found interactive browsing very convenient.\n\nhttps://alex04072000.github.io/SOLD/website/Obstruction_HTML_CameraReady/result.html"
+ },
+ {
+  "key": "1592563443478851584",
+  "kind": "tweet",
+  "title": "How to prepare supplementary material?",
+  "en": "Hope this gives you some initial ideas on how you can prepare your supplementary material!\n\nGood luck with your paper submission!"
+ },
+ {
+  "key": "title:1672342931473137664",
+  "kind": "title",
+  "title": "",
+  "en": "How to cite papers?"
+ },
+ {
+  "key": "1672342931473137664",
+  "kind": "tweet",
+  "title": "How to cite papers?",
+  "en": "How to cite papers?\n\nCiting papers properly \n👉 gives credit where credit's due,\n👉 provides supporting evidence of your claim, and\n👉 presents an organized view of related work. \n\nSharing some tips I found useful. 🧵"
+ },
+ {
+  "key": "1672342941275398145",
+  "kind": "tweet",
+  "title": "How to cite papers?",
+  "en": "*Parenthetical citations*\n\n\"Parenthetical\": removing the citations, your sentences should still make sense.\n\nWhen writing the related work, focus on the STORY and cite relevant papers along the way.\n\nThis provides an organized structure of how individual papers are connected."
+ },
+ {
+  "key": "1672342953329557504",
+  "kind": "tweet",
+  "title": "How to cite papers?",
+  "en": "*Narrative citations*\n\nThis style often starts with authors' name in your sentence. \n\nExamples: A et al. propose X. B et al. explore Y.\n\nPro: Useful if you want to highlight a particular work.\n\nCon: Easily leads to a poorly written \"laundry list\"."
+ },
+ {
+  "key": "1672342961730863107",
+  "kind": "tweet",
+  "title": "How to cite papers?",
+  "en": "*Grouping citations*\n\nAvoid adding a looong list of citations without meaningful grouping. \n\n❌ Recent work extends X to improve speed, quality, and memory efficiency [1, 2, 3, 4]. \n\n✅ Recent work extends X to improve speed [1], quality [2, 3], and memory efficiency [4]."
+ },
+ {
+  "key": "1672342970098413569",
+  "kind": "tweet",
+  "title": "How to cite papers?",
+  "en": "*Repetitive citations*\n\nIt's okay to cite the papers whenever appropriate, e.g., citing methods/datasets in your tables. \n\nNo one can remember all these acronyms. 🥱"
+ },
+ {
+  "key": "1672342978554216449",
+  "kind": "tweet",
+  "title": "How to cite papers?",
+  "en": "*Broad citations*\n\nIf possible, cite relevant papers more broadly. Giving others credit does not hurt yours. \n\nLive view of authors finding their work is not cited in your paper:"
+ },
+ {
+  "key": "1672342986921844737",
+  "kind": "tweet",
+  "title": "How to cite papers?",
+  "en": "*BibTeX formatting (conference/Journal)*\n\nNever trust BibTeX downloaded from Google Scholar. \n\nThey suck! \n\nManually correct those entries.\n\nconference 👉 inproceedings\nconference 👉 article"
+ },
+ {
+  "key": "1672342995281084417",
+  "kind": "tweet",
+  "title": "How to cite papers?",
+  "en": "*BibTeX formatting (label)*\n\nI find the style of labels\n&lt;FirstAuthorLastName&gt;&lt;Year&gt;&lt;FirstWord&gt; easy to use.\n\n Never use the BibTeX label from dblp. \n\nThey suck! \n\nYou will have a hard time knowing which papers you are citing. 🥴"
+ },
+ {
+  "key": "1672343003665510401",
+  "kind": "tweet",
+  "title": "How to cite papers?",
+  "en": "*BibTeX formatting (macros)*\n\nBibTeX offers macros to help standardize your citations.\n\nUse them for frequently cited conferences/journals to cite them consistently throughout your paper."
+ },
+ {
+  "key": "1672343012087668740",
+  "kind": "tweet",
+  "title": "How to cite papers?",
+  "en": "*BibTeX formatting (capital letters)*\n\nBibTeX is case-sensitive. Be cautious when entering author names, titles, and journal names. \n\nUse curly braces {} to preserve capitalization when needed."
+ },
+ {
+  "key": "title:1548882661581754370",
+  "kind": "title",
+  "title": "",
+  "en": "How to start a presentation?"
+ },
+ {
+  "key": "1548882661581754370",
+  "kind": "tweet",
+  "title": "How to start a presentation?",
+  "en": "How to start a presentation?\n\nMost people start with all the boring info (e.g., repeating everything your host just said) and unmotivated technical details. 🥱\n\nAfter a few mins, everyone starts checking their phone! 😱\n\nHow to avoid this? Here is a simple template. 🧵"
+ },
+ {
+  "key": "1548882682318393345",
+  "kind": "tweet",
+  "title": "How to start a presentation?",
+  "en": "*Hook*\n\n❌\"Hi, my name is .. I am a .. from .. My research .. I am happy to be here. Today I am going to present this title on the slide.\"  \n\n✅ Start your talk with a story, a picture, a surprising statistics, a quote, a question, a poll from audience, or a guessing game."
+ },
+ {
+  "key": "1548882706947358722",
+  "kind": "tweet",
+  "title": "How to start a presentation?",
+  "en": "*Transition*\n\nOnce you got everyone's attention with your hook, smoothly transit to the topic you want to talk about. \n\n\"Now why do I tell you this story?\"\n\n\"Why do I show this particular picture?\"\n\n\"I see most of you raised your hand. But in fact ...\""
+ },
+ {
+  "key": "1548882714929020929",
+  "kind": "tweet",
+  "title": "How to start a presentation?",
+  "en": "*Preview*\n\nNow you have talked about WHY you want to talk about your topic with your hook and transition, give a preview of WHAT you are going to talk about.\n\nMore on how to organize your talk: https://x.com/jbhuang0604/status/1509033327981965313"
+ },
+ {
+  "key": "1548882714929020929#quoted",
+  "kind": "quoted",
+  "title": "How to start a presentation?",
+  "en": "How to organize your talk?\n\nQual/prelim/defense/conference season is coming up! 😱 How should we organize the talk so that your committee members won't fall asleep? \n\nSome simple tips I found useful ...👇"
+ },
+ {
+  "key": "1548882723141550080",
+  "kind": "tweet",
+  "title": "How to start a presentation?",
+  "en": "*Benefit for your audience*\n\nConvince why your audience should spend the next 40 mins of their life (that they cannot get back) listening to your talk. \n\nWhat questions will you answer? What will they learn? How will your talk benefit the audience?"
+ },
+ {
+  "key": "1548882725028990984",
+  "kind": "tweet",
+  "title": "How to start a presentation?",
+  "en": "Happy presenting! Hope this simple template helps!\n\nResources: \n\nI learned the template from the following two videos:\nhttps://www.youtube.com/watch?v=aGEFtRwPhE4\nhttps://www.youtube.com/watch?v=LrjlW00kkws\nThey have helped me tremendously. Definitely check them out!"
+ },
+ {
+  "key": "title:1549959041908150275",
+  "kind": "title",
+  "title": "",
+  "en": "How to end a presentation?"
+ },
+ {
+  "key": "1549959041908150275",
+  "kind": "tweet",
+  "title": "How to end a presentation?",
+  "en": "How to end a presentation?\n\nYou have kicked off your talk with a fascinating story and presented an amazing body of work. 🤩\n\nSo now how do you end your talk? 🤔\n\nCheck out a simple template I like! 🧵"
+ },
+ {
+  "key": "1549959049537519617",
+  "kind": "tweet",
+  "title": "How to end a presentation?",
+  "en": "*Look back*\n\nRemind everyone what the KEY POINTS are. \n\nRemember that your audience's memory buffer is very limited (typically no more than 3 phrases). 😵‍💫\n\n👉 Make it visual! Make it concise!"
+ },
+ {
+  "key": "1549959057787740160",
+  "kind": "tweet",
+  "title": "How to end a presentation?",
+  "en": "*Look forward*\n\nAnswer the NOW WHAT question for your audience. \n\n❓Where can they learn more? \n❓What new exciting directions can they explore? \n❓How can they apply the cool stuffs you presented? \n\n👉 Make it actionable!"
+ },
+ {
+  "key": "1549959065039765504",
+  "kind": "tweet",
+  "title": "How to end a presentation?",
+  "en": "*Give credits*\n\nHighlight the heroines/heroes behind the scene with their names and pictures! \n\nCredits are NOT like money. Giving others credits does not make you have less credits. \n\n👉 Make it generous!"
+ },
+ {
+  "key": "1549959072174194688",
+  "kind": "tweet",
+  "title": "How to end a presentation?",
+  "en": "*End with summary, not \"thank-you slide\"*\n\nShow the summary slide as your final slide. This slide would stay up for the last 5 mins during the Q&amp;A. It helps people ask good questions. \n\nDo not waste it on showing a meaningless \"thank you slide\".\n\n👉 Make it informative!"
+ },
+ {
+  "key": "1549959079581335557",
+  "kind": "tweet",
+  "title": "How to end a presentation?",
+  "en": "That's all folks! \n\nHopefully this simple template gives you some idea on how to end a presentation! \n\n1⃣ Look back\n2⃣ Look forward\n3⃣ Give credits\n4⃣ End with summary\n\nGood luck, and go give an awesome talk!"
+ },
+ {
+  "key": "title:1553583984948531205",
+  "kind": "title",
+  "title": "",
+  "en": "How to handle questions in a presentation?"
+ },
+ {
+  "key": "1553583984948531205",
+  "kind": "tweet",
+  "title": "How to handle questions in a presentation?",
+  "en": "How to handle questions in a presentation?\n\nWhen I was a student, I always feel stressful during the Q&amp;A session after my presentation. 😵‍💫 In many cases, I didn't know how to respond well and just froze up there! 🥶\n\nSharing some tips I learned from others. 🧵"
+ },
+ {
+  "key": "1553583993643307008",
+  "kind": "tweet",
+  "title": "How to handle questions in a presentation?",
+  "en": "*Reframe the question*\n\nRepeating and summarizing the key questions help \n1⃣ ensure the audience feel heard,\n2⃣ confirm that you are answering the right Q,\n3⃣ let other audience understand what the Q is, and\n4⃣ give yourself a bit buffer to think and plan your answer."
+ },
+ {
+  "key": "1553584001373421568",
+  "kind": "tweet",
+  "title": "How to handle questions in a presentation?",
+  "en": "*Respond the question concisely*\n\nAddress the question directly and concisely. Don't spend 1 min flipping through your slides trying to find the exact slide. 😵‍💫\n\nWhen you\n- know your shit 👉 Answer concisely.\n- don't know the ans. 👉 Admit you don't know and commit to follow up."
+ },
+ {
+  "key": "1553584048504799241",
+  "kind": "tweet",
+  "title": "How to handle questions in a presentation?",
+  "en": "*Manage your pace*\n\nDon't let tough questions disrupt your pace, e.g.,\n\nBack-to-the-future questions:\n👉 \"I will cover that in a next few slides.\"\n\nInsist on unnecessary details:\n👉 \"More than happy to discuss offline.\"\n\nSchmidhuber-based questions:\n 👉 \"Our work differs ...\""
+ },
+ {
+  "key": "1553584057174396928",
+  "kind": "tweet",
+  "title": "How to handle questions in a presentation?",
+  "en": "*Check if your audience is following along*\n\n❌ \"Any questions for this part?\", \"Is this clear?\", \"Does it make sense?\"\n\nNo questions asked 👉 clear talk?\nNah 🫤, it may imply that your audience just gave up or simply don't care.\n\nInstead,\n✅ \"Can I have two questions here?\""
+ },
+ {
+  "key": "1553584066301026305",
+  "kind": "tweet",
+  "title": "How to handle questions in a presentation?",
+  "en": "*Anticipate and provide questions*\n\nAnticipate what questions will be asked and practice, practice, practice. \n\nPro tip for conference presentation: \n👉 Provide one or two questions for your session chairs. \n\nIt helps them ask good questions and helps you respond well. 😎"
+ },
+ {
+  "key": "1553584069027500034",
+  "kind": "tweet",
+  "title": "How to handle questions in a presentation?",
+  "en": "Happy answering questions! \n\nHope these would help you get better prepared for your next presentation! \n\nHappy to learn more of your favorite tips for handling tough questions!"
+ },
+ {
+  "key": "title:1506101759911116809",
+  "kind": "title",
+  "title": "",
+  "en": "How to present a line plot?"
+ },
+ {
+  "key": "1506101759911116809",
+  "kind": "tweet",
+  "title": "How to present a line plot?",
+  "en": "How to present a line plot?\n\nLine plots are effective for describing the relationship between two variables of interests. \n\nUnfortunately, most junior students would simply copy&amp;paste the figure from the paper in their talk and cause much confusion. 😕\n\nLet's break it down ... 🧵"
+ }
+]
