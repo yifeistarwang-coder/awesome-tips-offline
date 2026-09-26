@@ -2,6 +2,8 @@
 
 本文件把 README 中每一条内容都映射到**本地中文 Markdown**，无需访问 X / Dropbox。
 
+基于 [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)（MIT 许可）。该项目链接的每一条串文都已在本仓库完整归档（含全部配图与短视频），此外还有全站中译、两份讲稿的逐页提取，以及一个完全自包含的静态网站。
+
 - 英文版：[README.md](README.md)
 - 中文完整串文归档（66 条）：[threads/zh/README.md](threads/zh/README.md)
 - 仓库五篇正文的中文整理：[中文离线阅读版.md](中文离线阅读版.md)
