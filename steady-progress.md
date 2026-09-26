@@ -14,7 +14,7 @@ Forget about all the technical difficulties for a moment. Imagine you finish you
 
 If not, drop the project. Yep, just drop it. Free up your time to work on important problems.
 
-https://user-images.githubusercontent.com/987204/127598836-21f6d798-5722-4361-b322-17397abca8fc.mp4
+[![视频预览](threads/media/articles/127598836-21f6d798-5722-4361-b322-17397abca8fc.jpg)](threads/media/articles/127598836-21f6d798-5722-4361-b322-17397abca8fc.mp4)
 
 
 ## Work backward
@@ -35,7 +35,7 @@ Because you get to
 3) focus on each task with perfect inputs without distraction
 4) figure what are needed to achieve the desire results.
 
-https://user-images.githubusercontent.com/987204/127598869-d509e7cb-fd3d-4b00-8c98-f52ea6a0d9a8.mp4
+[![视频预览](threads/media/articles/127598869-d509e7cb-fd3d-4b00-8c98-f52ea6a0d9a8.jpg)](threads/media/articles/127598869-d509e7cb-fd3d-4b00-8c98-f52ea6a0d9a8.mp4)
 
 ## Toy examples
 
@@ -43,7 +43,7 @@ Design toy examples that capture the essence of your problem. They are sufficien
 
 It's also often helpful to construct/synthesize such toy examples so that you have access to all the ground truth in all the steps.
 
-https://user-images.githubusercontent.com/987204/127598916-84c5dab4-40c0-4a96-8597-e9301673bbf0.mp4
+[![视频预览](threads/media/articles/127598916-84c5dab4-40c0-4a96-8597-e9301673bbf0.jpg)](threads/media/articles/127598916-84c5dab4-40c0-4a96-8597-e9301673bbf0.mp4)
 
 ## Baseline first
 
@@ -53,25 +53,25 @@ It helps identify limitations of the state-of-the-art. If they work perfectly we
 
 Finding specific gap helps motivate your work.
 
-https://user-images.githubusercontent.com/987204/127598954-9b4d339c-8680-45ed-8eb6-2121420cf9e3.mp4
+[![视频预览](threads/media/articles/127598954-9b4d339c-8680-45ed-8eb6-2121420cf9e3.jpg)](threads/media/articles/127598954-9b4d339c-8680-45ed-8eb6-2121420cf9e3.mp4)
 
 ## Simple case first
 
 If your method does not work on simple/trivial cases, how could you expect it to work on unconstrained, real-world cases?
 
-https://user-images.githubusercontent.com/987204/127598996-8fb68359-dc3a-4654-9714-d7b0c9952db9.mp4
+[![视频预览](threads/media/articles/127598996-8fb68359-dc3a-4654-9714-d7b0c9952db9.jpg)](threads/media/articles/127598996-8fb68359-dc3a-4654-9714-d7b0c9952db9.mp4)
 
 ## One thing at a time
 
 When doing experiments, change exactly ONE thing at a time. This helps you understand what the results mean.
 
-https://user-images.githubusercontent.com/987204/127599041-7efa7e30-7872-4128-ab68-ffead74d2935.mp4
+[![视频预览](threads/media/articles/127599041-7efa7e30-7872-4128-ab68-ffead74d2935.jpg)](threads/media/articles/127599041-7efa7e30-7872-4128-ab68-ffead74d2935.mp4)
 
 ## Identify proxy
 
 Do not use full-scale experiments (that may take weeks to complete) as the only way to validate your ideas. Run smaller-scale/simpler experiments with short turnaround time so you get to iteratively refine your ideas a lot faster.
 
-https://user-images.githubusercontent.com/987204/127599091-aa952c0a-970c-476f-963b-358ccf55f6a5.mp4
+[![视频预览](threads/media/articles/127599091-aa952c0a-970c-476f-963b-358ccf55f6a5.jpg)](threads/media/articles/127599091-aa952c0a-970c-476f-963b-358ccf55f6a5.mp4)
 
 ## Automate everything
 
@@ -79,25 +79,25 @@ If you find that you need to do the same task twice, write a script for that.
 
 Your future self will thank you.
 
-https://user-images.githubusercontent.com/987204/127599125-8689bbda-5c78-4519-b732-12491ac8ef65.mp4
+[![视频预览](threads/media/articles/127599125-8689bbda-5c78-4519-b732-12491ac8ef65.jpg)](threads/media/articles/127599125-8689bbda-5c78-4519-b732-12491ac8ef65.mp4)
 
 
 ## Visualize everything
 
 You cannot debug what you cannot see. Investing time in visualizing your inputs/intermediate steps/outputs is definitely worthwhile!
 
-https://user-images.githubusercontent.com/987204/127599163-160b670c-4290-4137-8a65-16c769b9975d.mp4
+[![视频预览](threads/media/articles/127599163-160b670c-4290-4137-8a65-16c769b9975d.jpg)](threads/media/articles/127599163-160b670c-4290-4137-8a65-16c769b9975d.mp4)
 
 
 ## Quantify success
 
 Instead of always eyeballing a few results on your own, identify a couple of quantitative metrics for your problem and let them guide your exploration.
 
-https://user-images.githubusercontent.com/987204/127599203-96af318a-2026-4d7f-8d98-5ee3494ff20a.mp4
+[![视频预览](threads/media/articles/127599203-96af318a-2026-4d7f-8d98-5ee3494ff20a.jpg)](threads/media/articles/127599203-96af318a-2026-4d7f-8d98-5ee3494ff20a.mp4)
 
 ## Make the best use of machine time
 
 Plan your experiments so that your machines still work for you while you are not working.
 
-https://user-images.githubusercontent.com/987204/127599236-f53f245e-f73e-4f61-8ba6-d65c25e7a028.mp4
+[![视频预览](threads/media/articles/127599236-f53f245e-f73e-4f61-8ba6-d65c25e7a028.jpg)](threads/media/articles/127599236-f53f245e-f73e-4f61-8ba6-d65c25e7a028.mp4)
 

@@ -41,6 +41,7 @@ It needs no network at all — no CDN, no web fonts, no tracking — so `site/in
 
 ```bash
 python3 scripts/fetch_x_threads.py         # refresh threads + media from X (uses your browser session)
+python3 scripts/fetch_article_media.py     # mirror the clips the root articles still point at
 python3 scripts/prepare_zh_translation.py  # cut the text into translation batches
 python3 scripts/render_x_threads_zh.py     # render the Chinese archive
 python3 scripts/build_readmes.py           # regenerate README.md / README-CN.md from scripts/readme_index.json

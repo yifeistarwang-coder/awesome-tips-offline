@@ -39,6 +39,7 @@ python3 scripts/build_site.py --serve    # 生成并起 http://localhost:8000
 
 ```bash
 python3 scripts/fetch_x_threads.py         # 用本机浏览器登录态刷新串文与媒体
+python3 scripts/fetch_article_media.py     # 镜像根目录文章里仍指向网络的视频
 python3 scripts/prepare_zh_translation.py  # 切分翻译批次
 python3 scripts/render_x_threads_zh.py     # 渲染中文归档
 python3 scripts/build_readmes.py           # 由 scripts/readme_index.json 重建 README.md / README-CN.md
