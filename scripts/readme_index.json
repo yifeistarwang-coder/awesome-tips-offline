@@ -1,0 +1,575 @@
+[
+ [
+  "Doing Research",
+  [
+   {
+    "title": "How to make steady research progress?",
+    "url": "steady-progress.md",
+    "type": "local",
+    "path": "steady-progress.md"
+   },
+   {
+    "title": "How to do experiments?",
+    "url": "https://twitter.com/jbhuang0604/status/1647098218172252160",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1647098218172252160"
+   },
+   {
+    "title": "How to get unstuck?",
+    "url": "https://twitter.com/jbhuang0604/status/1717381151508054029",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1717381151508054029"
+   },
+   {
+    "title": "How to decide what to work on?",
+    "url": "https://twitter.com/jbhuang0604/status/1628521223838654464",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1628521223838654464"
+   },
+   {
+    "title": "How to keep track of literature?",
+    "url": "https://twitter.com/jbhuang0604/status/1426039195542360070",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1426039195542360070"
+   },
+   {
+    "title": "How to come up with research ideas?",
+    "url": "https://twitter.com/jbhuang0604/status/1423499757591400448",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1423499757591400448"
+   },
+   {
+    "title": "How to cope with paper rejection?",
+    "url": "https://twitter.com/jbhuang0604/status/1443248831102136333",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1443248831102136333"
+   },
+   {
+    "title": "The Road to Becoming an AI Ninja (guest lecture at Harvard University)",
+    "url": "https://www.dropbox.com/s/2s0wt4uxv9vk3gb/2022_11_18%20Guest_lecture_Harvard.pptx?dl=0",
+    "type": "pptx",
+    "key": "2s0wt4uxv9vk3gb"
+   },
+   {
+    "title": "How to Drive Your Research Forward",
+    "url": "https://bsky.app/profile/jbhuang0604.bsky.social/post/3lcbmsfnzm224",
+    "type": "bsky"
+   },
+   {
+    "title": "How to Get Citations?",
+    "url": "https://x.com/jbhuang0604/status/1997882311790968896",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1997882311790968896"
+   }
+  ]
+ ],
+ [
+  "Working with your mentors",
+  [
+   {
+    "title": "How to share progress with your mentors/collaborators?",
+    "url": "https://twitter.com/jbhuang0604/status/1453378296608137229",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1453378296608137229"
+   },
+   {
+    "title": "How to meet with your advisor?",
+    "url": "https://twitter.com/jbhuang0604/status/1653614931202195458",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1653614931202195458"
+   },
+   {
+    "title": "How to work with my mentors effectively?",
+    "url": "working-with-mentor.md",
+    "type": "local",
+    "path": "working-with-mentor.md"
+   },
+   {
+    "title": "How to work with your advisor?",
+    "url": "https://twitter.com/jbhuang0604/status/1546361365778022400",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1546361365778022400"
+   },
+   {
+    "title": "How to work with a busy advisor?",
+    "url": "https://twitter.com/jbhuang0604/status/1665183152887808000",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1665183152887808000"
+   },
+   {
+    "title": "How to work with your senior advisor?",
+    "url": "https://twitter.com/jbhuang0604/status/1563740402657775618",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1563740402657775618"
+   }
+  ]
+ ],
+ [
+  "Writing",
+  [
+   {
+    "title": "How to write the Introduction?",
+    "url": "https://twitter.com/jbhuang0604/status/1638029709073166336",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1638029709073166336"
+   },
+   {
+    "title": "How to write the Related Work?",
+    "url": "related-work.md",
+    "type": "local",
+    "path": "related-work.md"
+   },
+   {
+    "title": "How to write papers that are easy to read?",
+    "url": "paper-writing.md",
+    "type": "local",
+    "path": "paper-writing.md"
+   },
+   {
+    "title": "How to write a paper that looks like a good one?",
+    "url": "https://twitter.com/jbhuang0604/status/1437443017510621185",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1437443017510621185"
+   },
+   {
+    "title": "How to write clear and concise sentences?",
+    "url": "https://twitter.com/jbhuang0604/status/1437931004451250176",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1437931004451250176"
+   },
+   {
+    "title": "How to draw an overview figure?",
+    "url": "https://twitter.com/jbhuang0604/status/1665738070002483201",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1665738070002483201"
+   },
+   {
+    "title": "How to create a good table?",
+    "url": "https://twitter.com/jbhuang0604/status/1626372600824844289",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1626372600824844289"
+   },
+   {
+    "title": "How to write math in a paper?",
+    "url": "https://twitter.com/jbhuang0604/status/1643118681960923137",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1643118681960923137"
+   },
+   {
+    "title": "How to prepare journal response letter?",
+    "url": "https://twitter.com/jbhuang0604/status/1387148974377865219",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1387148974377865219"
+   },
+   {
+    "title": "How to prepare supplementary material?",
+    "url": "https://twitter.com/jbhuang0604/status/1592563395936817154",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1592563395936817154"
+   },
+   {
+    "title": "How to cite papers?",
+    "url": "https://twitter.com/jbhuang0604/status/1672342931473137664",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1672342931473137664"
+   }
+  ]
+ ],
+ [
+  "Presentation",
+  [
+   {
+    "title": "How to start a presentation?",
+    "url": "https://twitter.com/jbhuang0604/status/1548882661581754370",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1548882661581754370"
+   },
+   {
+    "title": "How to end a presentation?",
+    "url": "https://twitter.com/jbhuang0604/status/1549959041908150275",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1549959041908150275"
+   },
+   {
+    "title": "How to handle questions in a presentation?",
+    "url": "https://twitter.com/jbhuang0604/status/1553583984948531205",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1553583984948531205"
+   },
+   {
+    "title": "How to present a line plot?",
+    "url": "https://twitter.com/jbhuang0604/status/1506101759911116809",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1506101759911116809"
+   },
+   {
+    "title": "How to prepare your presentation slides?",
+    "url": "https://twitter.com/jbhuang0604/status/1397058827405742085",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1397058827405742085"
+   },
+   {
+    "title": "How to organize your talk?",
+    "url": "https://twitter.com/jbhuang0604/status/1509033327981965313",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1509033327981965313"
+   },
+   {
+    "title": "How to design your presentation?",
+    "url": "https://x.com/jbhuang0604/status/1865199644415832424",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1865199644415832424"
+   },
+   {
+    "title": "How to avoid common mistakes in your presentation?",
+    "url": "https://x.com/jbhuang0604/status/1866987294894231756",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1866987294894231756"
+   },
+   {
+    "title": "How to structure your talk with a story?",
+    "url": "https://x.com/jbhuang0604/status/1983579012476621192",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1983579012476621192"
+   }
+  ]
+ ],
+ [
+  "Poster Presentation",
+  [
+   {
+    "title": "How to make a research poster?",
+    "url": "https://twitter.com/jbhuang0604/status/1438948793718804486",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1438948793718804486"
+   },
+   {
+    "title": "How to present a poster at a conference?",
+    "url": "https://twitter.com/jbhuang0604/status/1518097856325996545",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1518097856325996545"
+   },
+   {
+    "title": "How to revise an academic poster?",
+    "url": "https://x.com/jbhuang0604/status/1974198882906325054",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1974198882906325054"
+   }
+  ]
+ ],
+ [
+  "Communication",
+  [
+   {
+    "title": "How to present your work via videos?",
+    "url": "https://x.com/jbhuang0604/status/1752768310087737588",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1752768310087737588"
+   },
+   {
+    "title": "How to disseminate your research?",
+    "url": "https://twitter.com/jbhuang0604/status/1379448897823776769",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1379448897823776769"
+   },
+   {
+    "title": "How to ask research questions?",
+    "url": "https://twitter.com/jbhuang0604/status/1472808608874352641",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1472808608874352641"
+   },
+   {
+    "title": "How to make a research poster?",
+    "url": "https://twitter.com/jbhuang0604/status/1438948793718804486",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1438948793718804486"
+   },
+   {
+    "title": "How to improve asynchronous communication?",
+    "url": "https://twitter.com/jbhuang0604/status/1515912622721355781",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1515912622721355781"
+   },
+   {
+    "title": "How to communicate clearly?",
+    "url": "https://twitter.com/jbhuang0604/status/1520615196498214913",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1520615196498214913"
+   },
+   {
+    "title": "How to set up a good calendar invite?",
+    "url": "https://twitter.com/jbhuang0604/status/1528566229505650691",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1528566229505650691"
+   },
+   {
+    "title": "How to get remembered?",
+    "url": "https://twitter.com/jbhuang0604/status/1611588521440976898",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1611588521440976898"
+   },
+   {
+    "title": "How to schedule a meeting?",
+    "url": "https://x.com/jbhuang0604/status/1866260228150337632",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1866260228150337632"
+   }
+  ]
+ ],
+ [
+  "Career",
+  [
+   {
+    "title": "How to prepare your Curriculum Vitae?",
+    "url": "https://twitter.com/jbhuang0604/status/1433651068282540033",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1433651068282540033"
+   },
+   {
+    "title": "How to find a research internship?",
+    "url": "https://twitter.com/jbhuang0604/status/1438337355031719941",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1438337355031719941"
+   },
+   {
+    "title": "How to intern?",
+    "url": "https://twitter.com/jbhuang0604/status/1505734716657438724",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1505734716657438724"
+   },
+   {
+    "title": "How to find research opportunities?",
+    "url": "https://twitter.com/jbhuang0604/status/1627191986091438080",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1627191986091438080"
+   },
+   {
+    "title": "How to prepare for a graduate school interview?",
+    "url": "https://twitter.com/jbhuang0604/status/1482238901595127808",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1482238901595127808"
+   },
+   {
+    "title": "How to improve graduate application after submission?",
+    "url": "https://twitter.com/jbhuang0604/status/1472410988322377732",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1472410988322377732"
+   },
+   {
+    "title": "How do I maximize my chance for PhD programs?",
+    "url": "https://twitter.com/jbhuang0604/status/1425204888301150208",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1425204888301150208"
+   },
+   {
+    "title": "How to ask for a letter of recommendation?",
+    "url": "https://twitter.com/jbhuang0604/status/1522072974068703233",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1522072974068703233"
+   },
+   {
+    "title": "How to survive the first year of PhD?",
+    "url": "https://twitter.com/jbhuang0604/status/1523505108318924802",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1523505108318924802"
+   },
+   {
+    "title": "How to prepare a phone interview for faculty positions?",
+    "url": "https://x.com/jbhuang0604/status/1852505510035026086",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1852505510035026086"
+   },
+   {
+    "title": "How to get a tenure-track faculty job?",
+    "url": "https://twitter.com/jbhuang0604/status/1533302893364789257",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1533302893364789257"
+   },
+   {
+    "title": "How to email faculty as a prospective student?",
+    "url": "https://twitter.com/jbhuang0604/status/1592024757062750209",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1592024757062750209"
+   },
+   {
+    "title": "Fantastic Faculty Jobs and How to Get Them?",
+    "url": "https://www.dropbox.com/s/avkflol8mx99c7e/2022_12_05%20Academic%20Job%20workshop.pptx?dl=0",
+    "type": "pptx",
+    "key": "avkflol8mx99c7e"
+   },
+   {
+    "title": "How to find a good PhD advisor?",
+    "url": "https://twitter.com/jbhuang0604/status/1636597849130450948",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1636597849130450948"
+   },
+   {
+    "title": "How to write an email to a potential advisor?",
+    "url": "https://twitter.com/jbhuang0604/status/1694789023175266553",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1694789023175266553"
+   },
+   {
+    "title": "How to invite yourself to give a talk?",
+    "url": "https://twitter.com/jbhuang0604/status/1704969868301201723",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1704969868301201723"
+   },
+   {
+    "title": "How to get people to know you?",
+    "url": "https://twitter.com/jbhuang0604/status/1704714420989862299",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1704714420989862299"
+   },
+   {
+    "title": "How to schedule your defense?",
+    "url": "https://x.com/jbhuang0604/status/1896673265378308497",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1896673265378308497"
+   }
+  ]
+ ],
+ [
+  "Productivity",
+  [
+   {
+    "title": "How to manage your time?",
+    "url": "https://twitter.com/jbhuang0604/status/1430003911037947904",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1430003911037947904"
+   },
+   {
+    "title": "How to be productive?",
+    "url": "https://twitter.com/jbhuang0604/status/1430003911037947904",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1430003911037947904"
+   },
+   {
+    "title": "How to develop a productive routine?",
+    "url": "https://twitter.com/jbhuang0604/status/1570131220499148800",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1570131220499148800"
+   },
+   {
+    "title": "How to multitask?",
+    "url": "https://twitter.com/jbhuang0604/status/1643454248229785604",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1643454248229785604"
+   },
+   {
+    "title": "How to know when to stop working on a project?",
+    "url": "https://twitter.com/jbhuang0604/status/1665218942611124225",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1665218942611124225"
+   }
+  ]
+ ],
+ [
+  "Networking",
+  [
+   {
+    "title": "How to network in a in-person conference?",
+    "url": "https://twitter.com/jbhuang0604/status/1517352789780934656",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1517352789780934656"
+   },
+   {
+    "title": "How to network in a virtual conference?",
+    "url": "https://twitter.com/jbhuang0604/status/1446692346800873477",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1446692346800873477"
+   },
+   {
+    "title": "How to write good cold emails?",
+    "url": "cold-emails.md",
+    "type": "local",
+    "path": "cold-emails.md"
+   },
+   {
+    "title": "How do I get professors to answer my emails?",
+    "url": "https://twitter.com/jbhuang0604/status/1441548826645602309",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1441548826645602309"
+   }
+  ]
+ ],
+ [
+  "Financial",
+  [
+   {
+    "title": "How to save for retirement as a graduate student (in the US)?",
+    "url": "https://twitter.com/jbhuang0604/status/1510479669962940416",
+    "type": "x",
+    "author": "jbhuang0604",
+    "id": "1510479669962940416"
+   }
+  ]
+ ]
+]
